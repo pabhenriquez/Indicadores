@@ -1,0 +1,774 @@
+id,created_at,conversation_id,tweet,retweet_count,like_count,reply_count,quote_count,expanded_url,language,possibly_sensitive,in_reply_to_user_id,username,NEG,NEU,POS,sentimiento
+826564851937980417,2017-01-31 22:56:32+00:00,826564851937980417,"Acoma Ferretería aporta con palas, rosones y guantes a Bomberos Chillán,  agradecimientos a su Gerente General Mario Esteban Mollo https://t.co/sBw5Ksx2cd",85,145,7,3,https://twitter.com/bomberoschillan/status/826564851937980417/photo/1,es,False,,bomberoschillan,0.093903,0.426117,0.47998,POS
+826520594418110464,2017-01-31 20:00:40+00:00,826520594418110464,Bomberos Chillán sale a Alarma General en Sector Santa Cruz de Cuca Quinchamalí incendio forestal de rápido avance,36,10,2,4,,es,False,,bomberoschillan,0.239512,0.641822,0.118666,NEU
+826511821804822528,2017-01-31 19:25:48+00:00,826511821804822528,"Preinforme en Sector Santa Cruz de Cuca fuego en pastizales, matorral, de rápido avance con peligro de propagación",26,7,0,0,,es,False,,bomberoschillan,0.254285,0.667489,0.078226,NEU
+826510821203312640,2017-01-31 19:21:50+00:00,826510821203312640,"3 focos de bosques, campos con arándanos se consumen en este momento en Santa Cruz de Cuca #ChillanOnLine",60,9,1,5,,es,False,,bomberoschillan,0.48123,0.4471,0.071669,NEG
+826508593855942657,2017-01-31 19:12:59+00:00,826508593855942657,Bomberos Ñipas sale en apoyo de Bomberos Chillan por incendio forestal sector Santa Cruz de Cuca,13,4,0,0,,es,False,,bomberoschillan,0.307389,0.57023,0.122381,NEU
+826503751221575682,2017-01-31 18:53:44+00:00,826503751221575682,Agradecer a la persona que estaba en local de Rodacar que gentilmente pagó el costo de rodamiento para móvil B5 de Bomberos Chillán,79,164,8,4,,es,False,,bomberoschillan,0.09857,0.700855,0.200575,NEU
+826502144077492224,2017-01-31 18:47:21+00:00,826502144077492224,"Preinforme en km 10 camino a Las Mariposas, fuego en rastrojo de trigo",9,8,2,0,,es,False,,bomberoschillan,0.270364,0.647571,0.082066,NEU
+826497288860233730,2017-01-31 18:28:03+00:00,826497288860233730,"Bomberos Chillán sale a km 10 camino a Las Mariposas, fuego en pastizal",13,9,2,0,,es,False,,bomberoschillan,0.321085,0.571741,0.107174,NEU
+826492097977053186,2017-01-31 18:07:26+00:00,826492097977053186,"Bomberos Chillán sale Sector Paso Ancho Quinchamalí, fuego en pastizal",11,4,0,0,,es,False,,bomberoschillan,0.28103,0.619966,0.099004,NEU
+826484147048837122,2017-01-31 17:35:50+00:00,826484147048837122,"Ampliación Sector La Cantera Santa Cruz de Cuca, fuego en bosque de pino de rápido avance con peligro",15,5,1,0,,es,False,,bomberoschillan,0.280657,0.625728,0.093615,NEU
+826480315929677824,2017-01-31 17:20:37+00:00,826480315929677824,Bomberos San Carlos sale en apoyo de Bomberos Portezuelo por reactivación de incendio forestal #ChillanOnLine,17,6,0,1,,es,False,,bomberoschillan,0.278417,0.572776,0.148806,NEU
+826479794573496321,2017-01-31 17:18:32+00:00,826479794573496321,"Bomberos Bulnes sale a Sector El Roble Fundo La Esperanza, fuego en pastizal #ChillanOnLine",5,5,0,0,,es,False,,bomberoschillan,0.34507,0.546757,0.108174,NEU
+826477691557834752,2017-01-31 17:10:11+00:00,826477691557834752,FUERZA BOMBEROS CHILENOS: https://t.co/wGNtvWMEOe,34,30,1,1,http://youtu.be/Geix7LcyfDA,es,False,,bomberoschillan,0.304985,0.473466,0.221549,NEU
+826472451655733248,2017-01-31 16:49:22+00:00,826472451655733248,"Bomberos Chillán sale a Sector La Cantera Santa Cruz de Cuca, fuego en pastizal #ChillanOnLine",13,6,0,0,,es,False,,bomberoschillan,0.399172,0.516061,0.084767,NEU
+826453641292894210,2017-01-31 15:34:37+00:00,826453641292894210,"Bomberos Chillán móvil H5 sale a Carrera con Maipón, derrame de fluido hidraulico en el lugar",3,7,0,0,,es,False,,bomberoschillan,0.207201,0.668472,0.124327,NEU
+826453035220140032,2017-01-31 15:32:13+00:00,826453035220140032,"Colisión múltiple de dos vehículos menores, una micro Línea 4 con un jeep sin lesionados en Carrera con Maipón en Chillán https://t.co/2zQ0DmWaR8",17,6,0,0,https://twitter.com/bomberoschillan/status/826453035220140032/photo/1,es,False,,bomberoschillan,0.250738,0.616729,0.132534,NEU
+826408520400637955,2017-01-31 12:35:19+00:00,826408520400637955,"Brigadas de Conaf, Ejército, Bomberos y Armada, además de equipo francés trabajan hoy en Dichato. Apoyo aéreo en camino #ChillanOnLine",13,18,0,0,,es,False,,bomberoschillan,0.089969,0.617465,0.292566,NEU
+826407979880763392,2017-01-31 12:33:10+00:00,826407979880763392,"Bomberos Yungay sale a Sector San Miguel de Itata, fuego en pastizal #ChillanOnLine",19,8,1,0,,es,False,,bomberoschillan,0.437719,0.463579,0.098702,NEU
+826407682877845504,2017-01-31 12:32:00+00:00,826407682877845504,SuperTanker operará en Dichato como primer destino del día #ChillanOnLine,15,24,0,1,,es,False,,bomberoschillan,0.206267,0.679176,0.114556,NEU
+826276681774137348,2017-01-31 03:51:27+00:00,826276681774137348,Bomberos Ñipas sale en apoyo de Bomberos Portezuelo por incendio forestal #ChillanOnLine,24,17,0,1,,es,False,,bomberoschillan,0.25717,0.626896,0.115933,NEU
+826275224131870720,2017-01-31 03:45:39+00:00,826275224131870720,"Bomberos Coelemu sale a Sector Ranguelmo atrás de ex forestal Vigo, fuego en pastizal #ChillanOnLine",16,8,0,0,,es,False,,bomberoschillan,0.379917,0.549276,0.070807,NEU
+826274734987960320,2017-01-31 03:43:42+00:00,826274734987960320,Móvil F6 sale en apoyo de Bomberos Portezuelo por incendio forestal,19,14,2,0,,es,False,,bomberoschillan,0.136119,0.767148,0.096733,NEU
+826191330082701312,2017-01-30 22:12:17+00:00,826191330082701312,Empresa Getrafor entrega para el movil H5 un botiquín más antiparras y crema para quemaduras https://t.co/iC8ttbxWoj,17,25,0,0,https://twitter.com/bomberoschillan/status/826191330082701312/photo/1,es,False,,bomberoschillan,0.07668,0.683393,0.239927,NEU
+826188818202161157,2017-01-30 22:02:18+00:00,826188818202161157,Agradecimientos a Buses Hualpen y sus mecánicos trabajando en Móvil B5 https://t.co/4BTvaG9Aom,125,161,9,2,https://twitter.com/bomberoschillan/status/826188818202161157/photo/1,es,False,,bomberoschillan,0.019839,0.203511,0.77665,POS
+826174583011151872,2017-01-30 21:05:44+00:00,826174583011151872,"Agradecer a Importadora Starclutch y su Gerente Gonzalo Messer y a Miguel Ángel Posquino por su gestión, problema del embrague solucionado",108,169,5,7,,es,False,,bomberoschillan,0.102871,0.473127,0.424002,NEU
+826114988360208386,2017-01-30 17:08:56+00:00,826114988360208386,Después de tanto trabajo en los incendios forestales nuestro móvil B5 modelo Mitsubishi Fuso está en panne de disco de embrague https://t.co/y94KcUvw1S,155,43,13,32,https://twitter.com/bomberoschillan/status/826114988360208386/photo/1,es,False,,bomberoschillan,0.034591,0.552457,0.412952,NEU
+826097610603765760,2017-01-30 15:59:53+00:00,826097610603765760,"Preinforme en Villa Las Almendras, avda Ruiz de Gamboa con cruce ferroviario, fuego en entretecho de casa habitación",10,15,0,0,,es,False,,bomberoschillan,0.226078,0.713282,0.060639,NEU
+826096193998614528,2017-01-30 15:54:15+00:00,826096193998614528,"Móvil B1 y B4 salen a Villa Las Almendras, avda Ruiz de Gamboa con cruce ferroviario, fuego en casa habitación",10,8,0,1,,es,False,,bomberoschillan,0.120398,0.7927,0.086902,NEU
+826086881859354624,2017-01-30 15:17:15+00:00,826086881859354624,"Condición del Bombero Felipe Romero es de gravedad, pero con una evolución favorable. Permanece en la Unidad de Paciente Crítico",42,44,8,1,,es,False,,bomberoschillan,0.046743,0.741091,0.212166,NEU
+826077055599144960,2017-01-30 14:38:12+00:00,826077055599144960,"Los 9 Bomberos de accidente ya fueron evaluados por equipo de urgencia, se descartaron lesiones graves y fueron dados de alta #ChillanOnLine",20,42,0,3,,es,False,,bomberoschillan,0.12115,0.651213,0.227637,NEU
+826067814012350471,2017-01-30 14:01:29+00:00,826067814012350471,Bomberos Trehuaco sale en apoyo de Bomberos Portezuelo por incendio forestal #ChillanOnLine,12,7,0,0,,es,False,,bomberoschillan,0.263282,0.629855,0.106863,NEU
+826067181272178689,2017-01-30 13:58:58+00:00,826067181272178689,Bomberos Coelemu sale a  incendio forestal Sector Magdalena #ChillanOnLine,10,7,0,0,,es,False,,bomberoschillan,0.345649,0.58015,0.074201,NEU
+826053346427621376,2017-01-30 13:03:59+00:00,826053346427621376,Bomberos Chillán móviles B3 y B4 salen en apoyo de Bomberos Portezuelo por incendio forestal,30,15,0,0,,es,False,,bomberoschillan,0.143019,0.721339,0.135642,NEU
+825981844520841216,2017-01-30 08:19:52+00:00,825981844520841216,"Preinforme Sector Puente El Ala, volcamiento de móvil  de Bomberos 3 personas lesionadas",23,7,4,1,,es,False,,bomberoschillan,0.538232,0.389416,0.072352,NEG
+825977582856318976,2017-01-30 08:02:56+00:00,825977582856318976,"Bomberos Chillán sale a Sector Puente El Ala, volcamiento de vehículo menor 4 personas lesionadas",7,4,1,0,,es,False,,bomberoschillan,0.444278,0.442996,0.112725,NEG
+825915756395245570,2017-01-30 03:57:15+00:00,825915756395245570,Bomberos Chillán móvil H5 sale en apoyo de Bomberos Portezuelo por incendio forestal,48,47,4,1,,es,False,,bomberoschillan,0.160366,0.71146,0.128174,NEU
+825883766942027777,2017-01-30 01:50:08+00:00,825883766942027777,"Bomberos Pinto Sector El Cardal, fuego en pastizal #ChillanOnLine",28,7,2,0,,es,False,,bomberoschillan,0.424486,0.498187,0.077327,NEU
+825881306437472260,2017-01-30 01:40:22+00:00,825881306437472260,Bomberos Coelemu sale a Sector Ranguelmo focos activos en Cerro Estanque y Las Raíces #ChillanOnLine,41,13,1,0,,es,False,,bomberoschillan,0.223725,0.680931,0.095344,NEU
+825876826572591107,2017-01-30 01:22:34+00:00,825876826572591107,"Bomberos Bulnes sale a Sector El Progreso, fuego en pastizal #ChillanOnLine",18,4,0,0,,es,False,,bomberoschillan,0.395759,0.512175,0.092066,NEU
+825875239506681856,2017-01-30 01:16:15+00:00,825875239506681856,"Bomberos Cachapoal Sector Cachapoal Alto, fuego en pastizal #ChillanOnLine",43,13,2,0,,es,False,,bomberoschillan,0.334676,0.562211,0.103113,NEU
+825871638969380866,2017-01-30 01:01:57+00:00,825871638969380866,"Bomberos Quillon sale a Sector Queime, fuego en pastizal de rápido avance #ChillanOnLine",20,4,3,0,,es,False,,bomberoschillan,0.403518,0.498783,0.097699,NEU
+825868688414867457,2017-01-30 00:50:13+00:00,825868688414867457,Intendente de Biobio confirma que a partir de mañana se contará con 8 medios aéreos para el combate de incendios,65,68,5,2,,es,False,,bomberoschillan,0.098224,0.742341,0.159434,NEU
+825867224468615168,2017-01-30 00:44:24+00:00,825867224468615168,"Bomberos Chillán sale a Sector El Sauce, fuego en pastizal",19,11,1,0,,es,False,,bomberoschillan,0.258543,0.62461,0.116847,NEU
+825862486213672960,2017-01-30 00:25:35+00:00,825862486213672960,Móvil Z6 sale en apoyo de Bomberos Portezuelo por incendio forestal,20,14,1,0,,es,False,,bomberoschillan,0.137597,0.755248,0.107154,NEU
+825860335554932736,2017-01-30 00:17:02+00:00,825860335554932736,Bomberos Chillán sale en apoyo de Bomberos Portezuelo por incendio forestal,53,66,2,1,,es,False,,bomberoschillan,0.200011,0.663784,0.136205,NEU
+825860110098526211,2017-01-30 00:16:08+00:00,825860110098526211,Apoyando con un granito de arena.Jóvenes EE.de CC. Asambleas de Dios.Fuerza Bomberos de Chillán https://t.co/cdQK23NwjR,11,17,1,0,https://twitter.com/bomberoschillan/status/825860110098526211/photo/1,es,False,,bomberoschillan,0.086915,0.470335,0.442751,NEU
+825850403069763585,2017-01-29 23:37:34+00:00,825850403069763585,Bomberos Chillan sale en apoyo del Cuerpo de Bomberos de Portezuelo,37,41,2,1,,es,False,,bomberoschillan,0.121078,0.657232,0.22169,NEU
+825836131069652993,2017-01-29 22:40:51+00:00,825836131069652993,"Bomberos Coelemu sale a Sector Huaro, rebrote de Incendio Forestal #ChillanOnLine",24,10,0,0,,es,False,,bomberoschillan,0.433961,0.500211,0.065828,NEU
+825835490213560320,2017-01-29 22:38:18+00:00,825835490213560320,Bomberos Coihueco y Ñipas salen en apoyo de Bomberos Portezuelo por Incendio Forestal #ChillanOnLine,34,17,1,0,,es,False,,bomberoschillan,0.284112,0.56739,0.148499,NEU
+825834761549643776,2017-01-29 22:35:25+00:00,825834761549643776,San Nicolas Sector El Peumo y Sector Primavera comienza evacuación preventiva por Incendio Forestal con peligro a viviendas #ChillanOnLine,32,6,1,0,,es,False,,bomberoschillan,0.26541,0.628652,0.105938,NEU
+825833606589341698,2017-01-29 22:30:49+00:00,825833606589341698,Portezuelo Sector Quitento comienza evacuación preventiva por Incendio Forestal con peligro a viviendas #ChillanOnLine,78,12,1,1,,es,False,,bomberoschillan,0.330327,0.549256,0.120417,NEU
+825798863705477122,2017-01-29 20:12:46+00:00,825798863705477122,Familia Navarrete de Chillan Viejo les prepararon el almuerzo a voluntarios de la Sexta Compañía https://t.co/UyiF7lXPJ3,32,57,0,3,https://twitter.com/bomberoschillan/status/825798863705477122/photo/1,es,False,,bomberoschillan,0.035752,0.27472,0.689529,POS
+825797399557840897,2017-01-29 20:06:57+00:00,825797399557840897,Agradecer a los conductores de la Línea 4 de Chillán y a Don Guiliano Bascuñan que nos entregaron 48 botellas de gatorade,29,62,0,0,,es,False,,bomberoschillan,0.044615,0.2497,0.705685,POS
+825796936917725184,2017-01-29 20:05:06+00:00,825796936917725184,"Bomberos Coelemu sale a Sector Campo Lindo, reactivacion de incendio forestal #ChillanOnLine",13,8,0,1,,es,False,,bomberoschillan,0.255034,0.613089,0.131877,NEU
+825782319910883328,2017-01-29 19:07:02+00:00,825782319910883328,Trabajadores de Ripley entregan ayuda a bomberos y envían emotivos mensajes a los bomberos https://t.co/4IE6Ej1Lkf,10,20,0,0,https://twitter.com/bomberoschillan/status/825782319910883328/photo/1,es,False,,bomberoschillan,0.036311,0.262481,0.701208,POS
+825781836982996997,2017-01-29 19:05:06+00:00,825781836982996997,RT @marianarriagada: @CopiayPaste @TVN @canal13  super tanker operando en portezuelo sector el sauce https://t.co/Th7PtIiF47,21,0,0,0,https://twitter.com/marianarriagada/status/825765107661733896/video/1,es,False,,bomberoschillan,0.096255,0.777337,0.126408,NEU
+825779390118293504,2017-01-29 18:55:23+00:00,825779390118293504,Bomberos Quirihue concurre en apoyo de Bomberos Portezuelo por incendio forestal #ChillanOnLine,39,34,0,0,,es,False,,bomberoschillan,0.252781,0.601022,0.146197,NEU
+825500346554413057,2017-01-29 00:26:34+00:00,825500346554413057,"Preinforme en Vicuña Mackenna con Alonso de Ercilla, fuego en bodega con peligro",22,15,3,0,,es,False,,bomberoschillan,0.355781,0.57294,0.071279,NEU
+825496849012375552,2017-01-29 00:12:40+00:00,825496849012375552,"Bomberos Chillán sale a Vicuña Mackenna con Alonso de Ercilla, fuego en casa habitación",34,11,3,0,,es,False,,bomberoschillan,0.223191,0.67209,0.104719,NEU
+825429563392004096,2017-01-28 19:45:18+00:00,825429563392004096,Alarma de Incendio en Panamericana Norte Sector Bypass por fuego en pastizal,32,12,1,0,,es,False,,bomberoschillan,0.193146,0.706186,0.100668,NEU
+825428699168247809,2017-01-28 19:41:52+00:00,825428699168247809,Incendio descontrolado comuna de Portezuelo evacuando personas en Sector Llahuen #ChillanOnLine,75,16,2,3,,es,False,,bomberoschillan,0.606952,0.337906,0.055142,NEG
+825427377677332480,2017-01-28 19:36:37+00:00,825427377677332480,"Bomberos Chillán sale a Panamericana Norte Sector Bypass, fuego en pastizal",36,23,0,1,,es,False,,bomberoschillan,0.267259,0.620633,0.112108,NEU
+825419078542163968,2017-01-28 19:03:38+00:00,825419078542163968,RT @ValeTimbles: @bomberoschillan Vista desde El Sauce hacia el norte https://t.co/OmYjwg4JvY,10,0,0,0,https://twitter.com/ValeTimbles/status/825418398846812160/photo/1,es,False,,bomberoschillan,0.088672,0.640871,0.270457,NEU
+825409337938030592,2017-01-28 18:24:56+00:00,825409337938030592,Supertanker volvería a realizar una nueva descarga en San Nicolás #ChillanOnLine,48,56,7,0,,es,False,,bomberoschillan,0.125024,0.742328,0.132649,NEU
+825399914129715201,2017-01-28 17:47:29+00:00,825399914129715201,"Bomberos Chillán sale a Sector Santa Cruz de Cuca Fundó Sparta, fuego en pastizal",16,10,0,0,,es,False,,bomberoschillan,0.285362,0.604105,0.110534,NEU
+825399504044175361,2017-01-28 17:45:51+00:00,825399504044175361,RT @Rodrigovillacar: Así es la situación en San Fabian en este minuto https://t.co/qQHJXEr3Gi,79,18,2,8,https://twitter.com/bomberoschillan/status/825399504044175361/photo/1,es,False,,bomberoschillan,0.42101,0.511393,0.067597,NEU
+825395711818792961,2017-01-28 17:30:47+00:00,825395711818792961,Incendio forestal Sector La Quebrada visto desde Portezuelo #ChillanOnLine https://t.co/3J697XwyhL,22,10,3,0,https://twitter.com/bomberoschillan/status/825395711818792961/photo/1,es,False,,bomberoschillan,0.517163,0.407899,0.074938,NEG
+825393866908004352,2017-01-28 17:23:27+00:00,825393866908004352,"Bomberos Chillán sale a Sector Bajo El Ala, fuego en pastizal",15,9,1,0,,es,False,,bomberoschillan,0.260941,0.629461,0.109597,NEU
+825388799471534083,2017-01-28 17:03:19+00:00,825388799471534083,En su segunda vuelta el SuperTanker volará hacia la localidad de Tomeco en la comuna de Yumbel #ChillanOnLine,17,32,0,0,,es,False,,bomberoschillan,0.133807,0.679555,0.186638,NEU
+825387737909964803,2017-01-28 16:59:06+00:00,825387737909964803,Empresa Airsafety acaba de regalar 4800 mascarillas para los voluntarios de Bomberos Chillán https://t.co/IuyXm4Ulf3,151,194,4,2,https://twitter.com/bomberoschillan/status/825387737909964803/photo/1,es,False,,bomberoschillan,0.084674,0.573839,0.341486,NEU
+825383764205457408,2017-01-28 16:43:18+00:00,825383764205457408,"Bomberos Bulnes sale en apoyo  Bomberos San Nicolás, fuego en incendio forestal",21,18,2,0,,es,False,,bomberoschillan,0.221997,0.671051,0.106952,NEU
+825373140377276416,2017-01-28 16:01:06+00:00,825373140377276416,Bomberos Chillán sale en apoyo de Bomberos San Nicolás Móvil Z6,21,22,0,1,,es,False,,bomberoschillan,0.159741,0.706269,0.13399,NEU
+825369560530481152,2017-01-28 15:46:52+00:00,825369560530481152,Bomberos Chillán sale camino a  Portezuelo en apoyo de Bomberos Portezuelo,25,22,2,0,,es,False,,bomberoschillan,0.128455,0.633534,0.238011,NEU
+825365234785329153,2017-01-28 15:29:41+00:00,825365234785329153,"En San Fabian se mantiene activo IF Cerro Alico Bomberos, Brigadas forestales, Ejército y civiles hacen lo posible por combatir el fuego",120,43,7,12,,es,False,,bomberoschillan,0.078651,0.476013,0.445336,NEU
+825364368552493057,2017-01-28 15:26:14+00:00,825364368552493057,"Preinforme camino a Portezuelo Puente El Ala, fuego en rastrojo de trigo con peligro a bosque",15,12,0,0,,es,False,,bomberoschillan,0.253093,0.683216,0.063691,NEU
+825358772180746240,2017-01-28 15:04:00+00:00,825358772180746240,Exitosa descarga del Supertanker en San Nicolás #ChillanOnLine,119,206,11,3,,es,False,,bomberoschillan,0.090919,0.499128,0.409953,NEU
+825357694475313152,2017-01-28 14:59:43+00:00,825357694475313152,"Bomberos Chillán sale camino a Portezuelo Puente El Ala, fuego en pastizal",26,19,2,0,,es,False,,bomberoschillan,0.282051,0.616402,0.101547,NEU
+825353826077175808,2017-01-28 14:44:21+00:00,825353826077175808,"En San Nicolas Sector Chicalindo, Sector El Cajón, SuperTanker realiza lanzamientos hace unos instantes #ChillanOnLine",56,61,5,1,,es,False,,bomberoschillan,0.1477,0.745416,0.106884,NEU
+825345344670150656,2017-01-28 14:10:39+00:00,825345344670150656,"Bomberos Ñipas sale a Sector Los Magos, Incendio Forestal, Brigadas Forestal y Helitrasportada trabajan en el lugar #ChillanOnLine",23,9,0,1,,es,False,,bomberoschillan,0.303035,0.581036,0.115929,NEU
+825344781047910402,2017-01-28 14:08:24+00:00,825344781047910402,"Bomberos San Nicolas Sector Chicalindo, Incendio en Pastizal con peligro a viviendas #ChillanOnLine",33,8,2,0,,es,False,,bomberoschillan,0.459556,0.459111,0.081333,NEG
+825343082635882497,2017-01-28 14:01:39+00:00,825343082635882497,Bomberos San Carlos acuartelamiento general por Incendio Forestal camino a Torrecilla Puente Changaral,40,18,2,1,,es,False,,bomberoschillan,0.171742,0.730153,0.098105,NEU
+825340097788796928,2017-01-28 13:49:48+00:00,825340097788796928,"Bomberos Portezuelo Sector La Quebrada, fuego en pastizal con peligro de propagacion a bosque",30,9,0,0,,es,False,,bomberoschillan,0.208138,0.698518,0.093345,NEU
+825337421306949634,2017-01-28 13:39:09+00:00,825337421306949634,"Supertanker, a esta hora despega desde Santiago, con destino a San Nicolas",68,117,11,2,,es,False,,bomberoschillan,0.076904,0.78328,0.139816,NEU
+825333938747035648,2017-01-28 13:25:19+00:00,825333938747035648,"Bomberos San Carlos sale camino a Torrecilla costado Puente Changaral,  fuego en pastizal",14,14,1,1,,es,False,,bomberoschillan,0.305684,0.589276,0.10504,NEU
+825332034151317504,2017-01-28 13:17:45+00:00,825332034151317504,"Bomberos Ninhue sale a Sector Llohue, fuego en pastizal",10,9,0,0,,es,False,,bomberoschillan,0.325229,0.564284,0.110487,NEU
+825330905938010113,2017-01-28 13:13:16+00:00,825330905938010113,"Bomberos Yungay sale a Sector Sausalito Ex Vertedero, fuego en pastizal",22,16,0,0,,es,False,,bomberoschillan,0.36018,0.549171,0.090649,NEU
+825329309535580160,2017-01-28 13:06:55+00:00,825329309535580160,RT @Trivazul: @PompeFranceCh @ChillanOnline @muni_chillan @bomberoschillan @NUBLEONLINE_  despedida del carabinero mártir de Chillan https:…,46,0,0,0,,es,False,,bomberoschillan,0.699558,0.258159,0.042283,NEG
+825303310840242179,2017-01-28 11:23:37+00:00,825303310840242179,Bomberos Yungay sale a fuego  pastizales Sector Copa de Agua #ChillanOnLine,13,9,1,0,,es,False,,bomberoschillan,0.429504,0.508161,0.062335,NEU
+825288058333429760,2017-01-28 10:23:00+00:00,825288058333429760,Móviles BF-6 y Z-6 de la Sexta de Chillán en Puesto de Mando Florida en apoyo por Incendio Forestal https://t.co/TiSboxzLas,18,36,2,0,https://twitter.com/bomberoschillan/status/825288058333429760/photo/1,es,False,,bomberoschillan,0.124819,0.752885,0.122296,NEU
+825147233997828096,2017-01-28 01:03:25+00:00,825147233997828096,Agradecemientos a los locales de comida del mercado techado que hoy regalaron 30 colaciones a voluntarios de Bomberos Chillán,56,149,3,2,,es,False,,bomberoschillan,0.045146,0.293449,0.661405,POS
+825146323921932288,2017-01-28 00:59:48+00:00,825146323921932288,Agradecemientos a trabajadores Chileexpress sucursal Isabel Riquelme y 5 de Abril su aporte de aguas isotónicas https://t.co/2oMHFDwFyp,22,48,1,0,https://twitter.com/bomberoschillan/status/825146323921932288/photo/1,es,False,,bomberoschillan,0.114064,0.630139,0.255797,NEU
+825127431048687618,2017-01-27 23:44:44+00:00,825127431048687618,Club Deportivo Los Parrilleros realizan donación de bebidas Isotónicas y cereales https://t.co/6wMLuiRw7f,15,45,1,0,https://twitter.com/bomberoschillan/status/825127431048687618/photo/1,es,False,,bomberoschillan,0.037638,0.592283,0.370079,NEU
+825091783369621508,2017-01-27 21:23:05+00:00,825091783369621508,"Automotriz Antumalal Chillán
+Dona 4 neumáticos nuevos para el puesto de mando X4 https://t.co/lyYVJVijzC",65,141,6,1,https://twitter.com/bomberoschillan/status/825091783369621508/photo/1,es,False,,bomberoschillan,0.093102,0.713331,0.193567,NEU
+825090496120942594,2017-01-27 21:17:58+00:00,825090496120942594,Bomberos Chillan sale en apoyo del Cuerpo de Bomberos de Florida,24,59,0,1,,es,False,,bomberoschillan,0.113666,0.669791,0.216543,NEU
+825080459394682884,2017-01-27 20:38:05+00:00,825080459394682884,"Funcionarios de la Clínica Chillán entregan insumos médicos, agua y cereal https://t.co/aN1O72QE1u",10,42,2,0,https://twitter.com/bomberoschillan/status/825080459394682884/photo/1,es,False,,bomberoschillan,0.12117,0.538102,0.340729,NEU
+825076922946301954,2017-01-27 20:24:02+00:00,825076922946301954,Gracias a todos por su apoyo y muestras de cariño... Gracias Chillán https://t.co/JOSjnn3m03,24,92,1,1,https://twitter.com/bomberoschillan/status/825076922946301954/photo/1,es,False,,bomberoschillan,0.006663,0.053162,0.940175,POS
+825070588674863104,2017-01-27 19:58:52+00:00,825070588674863104,La comunidad sigue entregando su apoyo con los voluntarios de Bomberos Chillán https://t.co/ZAZmForoKN,11,49,3,0,https://twitter.com/bomberoschillan/status/825070588674863104/photo/1,es,False,,bomberoschillan,0.06379,0.415529,0.520681,POS
+825069611892736000,2017-01-27 19:54:59+00:00,825069611892736000,Radiotaxi Los Héroes también entrega su aporte a Bomberos Chillán https://t.co/kzLVqXnq1a,13,59,4,0,https://twitter.com/bomberoschillan/status/825069611892736000/photo/1,es,False,,bomberoschillan,0.133864,0.554323,0.311813,NEU
+825052703797690369,2017-01-27 18:47:47+00:00,825052703797690369,Bomberos Bulnes sale a Sector Rinconada El Faro fuego en pastizal,17,10,2,0,,es,False,,bomberoschillan,0.244161,0.651679,0.10416,NEU
+825013171278708737,2017-01-27 16:10:42+00:00,825013171278708737,Accesos a Concepción están habilitados. Se solicita circular con precaución,38,21,1,0,,es,False,,bomberoschillan,0.068276,0.781842,0.149881,NEU
+825011390884753408,2017-01-27 16:03:38+00:00,825011390884753408,Aclarar condición de Bombero hospitalizado: Se mantiene grave estabilizado en Unidad de Paciente Crítico. Se evalúa traslado aéreo Santiago,35,19,0,1,,es,False,,bomberoschillan,0.133295,0.808295,0.05841,NEU
+825010455718551553,2017-01-27 15:59:55+00:00,825010455718551553,Essbio también coopera con bebidas isotónicas para los voluntarios https://t.co/3FOQlMz83I,15,49,0,1,https://twitter.com/bomberoschillan/status/825010455718551553/photo/1,es,False,,bomberoschillan,0.05006,0.509907,0.440033,NEU
+825010056538238976,2017-01-27 15:58:20+00:00,825010056538238976,Café Coffe Latte aportan con bebidas isotónicas https://t.co/DYaBVejShJ,12,50,0,0,https://twitter.com/bomberoschillan/status/825010056538238976/photo/1,es,False,,bomberoschillan,0.058419,0.653335,0.288246,NEU
+825008970616229889,2017-01-27 15:54:01+00:00,825008970616229889,Falabella dona dos motosierras para ayudar al trabajo de Bomberos https://t.co/R7M8gBmpWB,51,101,3,5,https://twitter.com/bomberoschillan/status/825008970616229889/photo/1,es,False,,bomberoschillan,0.057457,0.687258,0.255285,NEU
+825008153859325954,2017-01-27 15:50:46+00:00,825008153859325954,Se agradece a la comunidad de Chillán que sigue cooperando con sus Bomberos....  Muchas Gracias a todos por su ayuda https://t.co/z4QccGjynz,25,65,0,2,https://twitter.com/bomberoschillan/status/825008153859325954/photo/1,es,False,,bomberoschillan,0.015455,0.090116,0.89443,POS
+825006030148997121,2017-01-27 15:42:20+00:00,825006030148997121,La Junta de Vecinos Quilamapu y amigos donan dos freezer vertical gestión de la Sra Mariela Acuña para Bomberos Chillán https://t.co/m445TxLQxY,32,64,0,1,https://twitter.com/bomberoschillan/status/825006030148997121/photo/1,es,False,,bomberoschillan,0.100245,0.531969,0.367786,NEU
+825001470311415808,2017-01-27 15:24:12+00:00,825001470311415808,Medidas de prevención y otras recomendaciones por presencia de humo usando mascarillas además de: https://t.co/iTqZuoZAxe,34,18,1,2,https://twitter.com/bomberoschillan/status/825001470311415808/photo/1,es,False,,bomberoschillan,0.11424,0.804097,0.081663,NEU
+825000176439918592,2017-01-27 15:19:04+00:00,825000176439918592,Copelec informa a la comunidad que  este viernes 27 de enero permanecerán con líneas abiertas y sin suministro eléctrico los sectores de: https://t.co/YQAjtEmaS8,34,12,1,0,https://twitter.com/bomberoschillan/status/825000176439918592/photo/1,es,False,,bomberoschillan,0.221676,0.701084,0.077241,NEU
+824997963864866817,2017-01-27 15:10:16+00:00,824997963864866817,Reunión de coordinación con funcionarios Hospital Herminda Martin para adquisición de elementos médicos para la atención de los voluntarios https://t.co/fITMBZIygT,13,20,0,0,https://twitter.com/bomberoschillan/status/824997963864866817/photo/1,es,False,,bomberoschillan,0.066116,0.588214,0.34567,NEU
+824830401499844609,2017-01-27 04:04:26+00:00,824830401499844609,40 Bomberos de Tarapacá llegaron a Concepción y serán despachado a San Nicolás para combatir incendio forestal,60,111,4,1,,es,False,,bomberoschillan,0.090167,0.678312,0.231522,NEU
+824823227495116802,2017-01-27 03:35:56+00:00,824823227495116802,Ex Consejero Regional entrega aporte en agua mineral y elementos de protección para Bomberos https://t.co/EbNjR0ALk3,10,38,2,2,https://twitter.com/bomberoschillan/status/824823227495116802/photo/1,es,False,,bomberoschillan,0.113326,0.536286,0.350388,NEU
+824822496243437568,2017-01-27 03:33:02+00:00,824822496243437568,Se agradece a Doggis por su importante aporte de agua para Bomberos Chillán https://t.co/mNI7vxWChg,28,107,2,1,https://twitter.com/bomberoschillan/status/824822496243437568/photo/1,es,False,,bomberoschillan,0.067644,0.322899,0.609457,POS
+824821833937645568,2017-01-27 03:30:24+00:00,824821833937645568,"Goloso y Soho Café, donan sándwich para los voluntarios que están trabajando en los incendios forestales https://t.co/m7FdlLqqOI",34,141,3,0,https://twitter.com/bomberoschillan/status/824821833937645568/photo/1,es,False,,bomberoschillan,0.139344,0.607822,0.252833,NEU
+824815791526838273,2017-01-27 03:06:23+00:00,824815791526838273,Se agradece a Y TU HERMANA gracias por el aporte con las mejores pizzas artesanales https://t.co/idsKyMwYlS,59,157,5,2,https://twitter.com/bomberoschillan/status/824815791526838273/photo/1,es,False,,bomberoschillan,0.002619,0.025803,0.971578,POS
+824714989055381506,2017-01-26 20:25:50+00:00,824714989055381506,"Bomberos Chillán sale a Sector Puyaral en San Nicolás, fuego en pastizal",30,29,11,1,,es,False,,bomberoschillan,0.318889,0.570934,0.110177,NEU
+824712575527059456,2017-01-26 20:16:15+00:00,824712575527059456,Sindicato de Trabajadores del Hospital Herminda Martín hace aporte de mascarillas para Bomberos https://t.co/kx63RQkiUM,26,60,3,2,https://twitter.com/bomberoschillan/status/824712575527059456/photo/1,es,False,,bomberoschillan,0.080081,0.680658,0.239262,NEU
+824709713543761925,2017-01-26 20:04:52+00:00,824709713543761925,"Bomberos Chillán sale camino a Cato km 8 pasado el Puente, fuego en pastizal",24,21,3,1,,es,False,,bomberoschillan,0.319289,0.545792,0.134919,NEU
+824705349999587328,2017-01-26 19:47:32+00:00,824705349999587328,Bomberos San Carlos  sale a Sector San Miguel de Aulemu fuego en pastizal,15,4,1,0,,es,False,,bomberoschillan,0.279575,0.619574,0.100851,NEU
+824703868495859712,2017-01-26 19:41:39+00:00,824703868495859712,"Bomberos Chillán sale a Sector Puente El Ala, fuego violento en pastizales",26,9,1,1,,es,False,,bomberoschillan,0.425146,0.479471,0.095382,NEU
+824703382594031616,2017-01-26 19:39:43+00:00,824703382594031616,"Bomberos San Ignacio sale a Sector La Greda y San pedro, fuego en pastizal",13,9,0,0,,es,False,,bomberoschillan,0.280092,0.610298,0.109611,NEU
+824702355291660291,2017-01-26 19:35:38+00:00,824702355291660291,"Copelec informa 15 y 17 horas corte de  luz a nivel de subestaciones, afectarían a San Carlos y Chillán, incluyendo Pinto y Coihueco",89,23,4,5,,es,False,,bomberoschillan,0.392831,0.555279,0.05189,NEU
+824697992716419074,2017-01-26 19:18:18+00:00,824697992716419074,Bomberos Chillán sale en apoyo de Bomberos Coelemu,18,11,0,0,,es,False,,bomberoschillan,0.195342,0.641279,0.163379,NEU
+824696845809115138,2017-01-26 19:13:44+00:00,824696845809115138,"Bomberos Chillán sale a Bypass sector Parque Lantaño, fuego en pastizal",34,9,4,4,,es,False,,bomberoschillan,0.265261,0.62284,0.111899,NEU
+824694819532472320,2017-01-26 19:05:41+00:00,824694819532472320,Bomberos Chillan sale en apoyo Bomberos de San Nicolas fuego en pastizal,26,20,1,1,,es,False,,bomberoschillan,0.211457,0.643094,0.145449,NEU
+824693735879507968,2017-01-26 19:01:23+00:00,824693735879507968,Bomberos Chillán sale a Ruta del Itata km 40 fuego en bosque y viviendas,35,11,0,3,,es,False,,bomberoschillan,0.263287,0.610898,0.125815,NEU
+824691100980015105,2017-01-26 18:50:55+00:00,824691100980015105,Bomberos Chillán sale a Villa Los Andes con Chacabuco 250 inflamación de cilindro de gas,13,8,1,0,,es,False,,bomberoschillan,0.317384,0.612097,0.070519,NEU
+824686275705835520,2017-01-26 18:31:44+00:00,824686275705835520,La sirena indica Acuartelamiento General de Bomberos Chillán,110,50,7,4,,es,False,,bomberoschillan,0.154299,0.750974,0.094727,NEU
+824684190629326849,2017-01-26 18:23:27+00:00,824684190629326849,Energía eléctrica volviendo de a poco por sectores en Chillán,40,29,7,1,,es,False,,bomberoschillan,0.120103,0.703229,0.176669,NEU
+824679119791288320,2017-01-26 18:03:18+00:00,824679119791288320,Fallece voluntario y ex comandante de Bomberos de Ñiquén y se transforma en nuevo mártir,370,113,27,45,,es,False,,bomberoschillan,0.456947,0.455564,0.087489,NEG
+824678200412344321,2017-01-26 17:59:39+00:00,824678200412344321,Bomberos San Nicolas Sector Naranjal incendio de grandes dimenciones #ChillanOnLine,31,10,1,0,,es,False,,bomberoschillan,0.453511,0.459526,0.086963,NEU
+824676779822579712,2017-01-26 17:54:00+00:00,824676779822579712,Bomberos Chillán confirma que no hay corte del suministro del agua potable,36,20,8,1,,es,False,,bomberoschillan,0.347065,0.551315,0.101619,NEU
+824676334744076288,2017-01-26 17:52:14+00:00,824676334744076288,Temperatura del momento en la ciudad de Chillán https://t.co/DVdk83PZF4,36,12,0,6,https://twitter.com/bomberoschillan/status/824676334744076288/photo/1,es,False,,bomberoschillan,0.177858,0.677759,0.144382,NEU
+824671249817280512,2017-01-26 17:32:02+00:00,824671249817280512,"Bomberos Cachapoal sale Sector Flor de Quihua, Caida de Árbol sobre camión aljibe #ChillanOnLine",5,0,0,0,,es,False,,bomberoschillan,0.372139,0.518426,0.109435,NEU
+824656888260427776,2017-01-26 16:34:58+00:00,824656888260427776,En este momento la Ruta del Itata se encuentra habilitada sólo entre Ruta 5 Nueva Aldea #ChillanOnLine,18,3,1,0,,es,False,,bomberoschillan,0.105592,0.745068,0.14934,NEU
+824655692904755201,2017-01-26 16:30:13+00:00,824655692904755201,Personas que quieran cooperar con dinero tienen que dirigirse a Tesorería General de Bomberos Chillán donde se les entregará un conprobante,41,25,0,1,,es,False,,bomberoschillan,0.048878,0.847502,0.10362,NEU
+824652857915871232,2017-01-26 16:18:57+00:00,824652857915871232,Bomberos Ñiquen sale a Torres de Cauchiuque fuego en pastizal #ChillanOnLine,10,4,0,0,,es,False,,bomberoschillan,0.349882,0.547551,0.102567,NEU
+824647395040522241,2017-01-26 15:57:14+00:00,824647395040522241,"Bomberos Coihueco sale a Sector Maiten Chico, fuego en pastizal #ChillanOnLine",10,10,1,0,,es,False,,bomberoschillan,0.383421,0.520692,0.095887,NEU
+824645736407175168,2017-01-26 15:50:39+00:00,824645736407175168,"Bomberos Chillán sale Villa El OLimpo calle Urbano Dubosc, fuego en pastizal y matorrales sin peligro",5,8,2,1,,es,False,,bomberoschillan,0.200277,0.699683,0.10004,NEU
+824644269197684738,2017-01-26 15:44:49+00:00,824644269197684738,"Bomberos Chillán sale en apoyo de Bomberos de Quillón, por incendio forestal",70,85,4,1,,es,False,,bomberoschillan,0.26714,0.613074,0.119786,NEU
+824641184521945088,2017-01-26 15:32:34+00:00,824641184521945088,Imágen del incendio forestal en Cerro Alico en San Fabián #ChillanOnLine https://t.co/Y55eKNyyoA,72,15,2,4,https://twitter.com/bomberoschillan/status/824641184521945088/photo/1,es,False,,bomberoschillan,0.484536,0.429104,0.086359,NEG
+824639770546622465,2017-01-26 15:26:57+00:00,824639770546622465,"En San Fabián Sector Cerro Alico IF en Bosque Nativo de rápido avance Brigadas Forestales, Bomberos y Ejército en el lugar #ChillanOnLine",30,8,1,0,,es,False,,bomberoschillan,0.191374,0.606254,0.202372,NEU
+824639269746663425,2017-01-26 15:24:57+00:00,824639269746663425,"Bomberos Pinto sale a Sector Fundo Los Hualles, fuego en pastizal #ChillanOnLine",8,3,0,0,,es,False,,bomberoschillan,0.394085,0.513608,0.092308,NEU
+824638432219713536,2017-01-26 15:21:37+00:00,824638432219713536,Ruta Q50 Cabrero habilitada para entrar/salir de Concepción #ChillanOnLine,24,12,1,1,,es,False,,bomberoschillan,0.115804,0.774287,0.109908,NEU
+824636516613943297,2017-01-26 15:14:01+00:00,824636516613943297,"Bomberos San Carlos sale camino a Monte Blanco, fuego en pastizal #ChillanOnLine",7,4,1,0,,es,False,,bomberoschillan,0.395927,0.51482,0.089253,NEU
+824633745336598529,2017-01-26 15:03:00+00:00,824633745336598529,Bomberos El Carmen sale en apoyo a Bomberos Quillón por incendio forestal #ChillanOnLine,10,8,0,0,,es,False,,bomberoschillan,0.351311,0.527618,0.121071,NEU
+824632457001627648,2017-01-26 14:57:53+00:00,824632457001627648,"En la Región del BioBio habrían 37 incendios activos: 16 controlados, 21 en observación y combate #ChillanOnLine",21,4,0,1,,es,False,,bomberoschillan,0.301263,0.588426,0.110311,NEU
+824632397048279041,2017-01-26 14:57:39+00:00,824632397048279041,"Corte total de la ruta del Itata, por focos de incendio. Sólo se permite paso de vehículos de emergencia y evacuados #ChillanOnLine",33,5,1,1,,es,False,,bomberoschillan,0.580771,0.381558,0.03767,NEG
+824632191988686848,2017-01-26 14:56:50+00:00,824632191988686848,"Bomberos San Ignacio sale Sector San Pedro, fuego en rastrojo de trigo #ChillanOnLine",6,7,0,0,,es,False,,bomberoschillan,0.377684,0.536219,0.086097,NEU
+824609134125391872,2017-01-26 13:25:12+00:00,824609134125391872,Hoy a las 11:00 en la ANB ceremonia de entrega del nuevo móvil para la Sexta Compañía y su llegada a Chillán será después de las 19:30 hrs https://t.co/AFVnZwdXAL,13,24,3,0,https://twitter.com/bomberoschillan/status/824609134125391872/photo/1,es,False,,bomberoschillan,0.06655,0.704352,0.229098,NEU
+824439079752306688,2017-01-26 02:09:28+00:00,824439079752306688,Móvil Br7 sale en apoyo de Bomberos Ñipas,10,22,3,2,,es,False,,bomberoschillan,0.07592,0.781177,0.142903,NEU
+824426480864284677,2017-01-26 01:19:24+00:00,824426480864284677,Móvil Bx3 sale camino a Cato km 12 fuego en bosque,21,15,6,0,,es,False,,bomberoschillan,0.157964,0.694624,0.147413,NEU
+824413846374846464,2017-01-26 00:29:12+00:00,824413846374846464,#NuevaFotoDePerfil https://t.co/0dmKBfthPz,31,64,8,2,https://twitter.com/bomberoschillan/status/824413846374846464/photo/1,qme,False,,bomberoschillan,0.079102,0.60286,0.318038,NEU
+824353023036194816,2017-01-25 20:27:31+00:00,824353023036194816,Personal de Gendarmería en representación del Centro de Cumplimiento Penitenciario de Chillán realizan su aporte para Bomberos Chillán https://t.co/F5JSTnxhUv,11,27,1,1,https://twitter.com/bomberoschillan/status/824353023036194816/photo/1,es,False,,bomberoschillan,0.100228,0.600376,0.299397,NEU
+824348092581511169,2017-01-25 20:07:55+00:00,824348092581511169,"Bomberos Chillán sale camino a Cato km 12, fuego en pastizal #ChillanOnLine",28,10,3,0,,es,False,,bomberoschillan,0.353636,0.532061,0.114303,NEU
+824326567685980163,2017-01-25 18:42:23+00:00,824326567685980163,Cesfam Sol de Oriente entrega material de primeros auxilios a Bomberos Chillán https://t.co/0jhETmejKv,21,34,1,0,https://twitter.com/bomberoschillan/status/824326567685980163/photo/1,es,False,,bomberoschillan,0.172351,0.587193,0.240456,NEU
+824316779128377344,2017-01-25 18:03:29+00:00,824316779128377344,Bomberos Chillán sale a Quinchamali Norte fuego en pastizal,11,3,0,0,,es,False,,bomberoschillan,0.264092,0.640871,0.095038,NEU
+824304958405312513,2017-01-25 17:16:31+00:00,824304958405312513,Fallece voluntario de Talagante que prestaba apoyo en incendio forestal en San Javier en Sector Las Corrientes,65,35,25,1,,es,False,,bomberoschillan,0.593975,0.365768,0.040257,NEG
+824139878682292224,2017-01-25 06:20:33+00:00,824139878682292224,Bomberos Chillán se encuentra trabajando en resguardo de viviendas en Sector Niblinto comuna de San Javier https://t.co/QCiJOumfnW,19,16,0,0,https://twitter.com/bomberoschillan/status/824139878682292224/photo/1,es,False,,bomberoschillan,0.118435,0.655047,0.226518,NEU
+824139877998612480,2017-01-25 06:20:33+00:00,824139877998612480,Bomberos Chillán se encuentra trabajando en resguardo de viviendas en Sector Niblinto comuna de San Javier,1,5,0,0,,es,False,,bomberoschillan,0.103103,0.69561,0.201287,NEU
+824087263470637057,2017-01-25 02:51:29+00:00,824087263470637057,"Por problemas técnicos la sirena de Bomberos Chillán, no pudo ser tocada en un nuevo Aniversario del Terremoto del 1939",31,14,5,3,,es,False,,bomberoschillan,0.858707,0.133844,0.007448,NEG
+823918683298873348,2017-01-24 15:41:36+00:00,823918683298873348,Bomberos Chillán sale por recambio de personal en apoyo de Bomberos Cauquenes por incendio forestal,34,49,7,0,,es,False,,bomberoschillan,0.248193,0.662642,0.089165,NEU
+823896019272429568,2017-01-24 14:11:32+00:00,823896019272429568,Delegación de Bomberos Chillán trabajando en incendio forestal en Cauquenes https://t.co/XG22993Zey,20,27,6,3,https://twitter.com/bomberoschillan/status/823896019272429568/photo/1,es,False,,bomberoschillan,0.24589,0.63566,0.118449,NEU
+823893107238469632,2017-01-24 13:59:58+00:00,823893107238469632,Parroquia La Merced realiza aporte de agua mineral a Bomberos Chillán https://t.co/61JU4np0jC,14,25,0,1,https://twitter.com/bomberoschillan/status/823893107238469632/photo/1,es,False,,bomberoschillan,0.105604,0.575944,0.318452,NEU
+823699487021563907,2017-01-24 01:10:35+00:00,823699487021563907,"Farmacia: SANTOS
+Turno: Lunes 23-01-2017
+Hora Inicio: 21:00 hrs
+Hora Término: 08:59 hrs
+Comuna: CHILLAN
+Dirección: 5 DE ABRIL N° 775",4,2,0,0,,es,False,,bomberoschillan,0.13556,0.781156,0.083284,NEU
+823686628963155968,2017-01-24 00:19:30+00:00,823686628963155968,"Preinforme en Sector Las Raíces Chillán Viejo, fuego en pastizal y árboles con peligro de propagación",4,3,1,0,,es,False,,bomberoschillan,0.329015,0.595991,0.074994,NEU
+823682613546283010,2017-01-24 00:03:33+00:00,823682613546283010,"Móvil B4 sale a Sector Las Raíces Chillán Viejo, fuego en pastizal",5,4,0,0,,es,False,,bomberoschillan,0.229413,0.652657,0.117929,NEU
+823672386222428160,2017-01-23 23:22:54+00:00,823672386222428160,"Preinforme en Alonso de Ercilla costado Colegio Sidney College, fuego en pastizal de gran extensión, rápido avance",20,2,1,1,,es,False,,bomberoschillan,0.234966,0.675579,0.089455,NEU
+823670106710540288,2017-01-23 23:13:51+00:00,823670106710540288,"Preinforme en camino a Pinto Puente El Diablo, fuego en pastizal de pequeña extensión, controlado",4,6,0,0,,es,False,,bomberoschillan,0.148287,0.753792,0.097921,NEU
+823669737905393665,2017-01-23 23:12:23+00:00,823669737905393665,"Móvil B1 sale a Alonso de Ercilla costado Colegio Sidney College, fuego en pastizal",6,4,0,1,,es,False,,bomberoschillan,0.190458,0.72147,0.088072,NEU
+823666180091154433,2017-01-23 22:58:14+00:00,823666180091154433,"Móvil B4 sale camino a Pinto Puente El Diablo, fuego en pastizal",8,3,0,0,,es,False,,bomberoschillan,0.214866,0.672325,0.112809,NEU
+823658253410304000,2017-01-23 22:26:45+00:00,823658253410304000,"Móvil B5 sale a Variante nahueltoro km 3, fuego en pastizal con peligro #ChillanOnLine",5,6,1,0,,es,False,,bomberoschillan,0.32424,0.569413,0.106347,NEU
+823658029543489537,2017-01-23 22:25:51+00:00,823658029543489537,Jóvenes que trabajan de empaquetadores en Supermercado Santa Isabel entregando su aporte en agua para Bomberos https://t.co/Nm0ZmO9MTz,45,75,2,1,https://twitter.com/bomberoschillan/status/823658029543489537/photo/1,es,False,,bomberoschillan,0.05171,0.492669,0.455621,NEU
+823653263648100353,2017-01-23 22:06:55+00:00,823653263648100353,"Móvil Z6 sale a Variante Nahueltoro km 3, fuego en pastizal con peligro",7,3,0,1,,es,False,,bomberoschillan,0.220651,0.655493,0.123856,NEU
+823650504077176832,2017-01-23 21:55:57+00:00,823650504077176832,"Móvil B1 sale variante Nahueltoro km 3, fuego en pastizal",6,5,0,0,,es,False,,bomberoschillan,0.178229,0.701049,0.120722,NEU
+823649210092359680,2017-01-23 21:50:49+00:00,823649210092359680,"Preinforme en Panamericana Norte frente terminal Hortofrutícola, colisión múltiple de 4 vehículos menores 1 lesionado",11,3,0,0,,es,False,,bomberoschillan,0.398233,0.527717,0.074049,NEU
+823645386179047424,2017-01-23 21:35:37+00:00,823645386179047424,"Móvil R1 sale a Panamericana Norte frente a terminal Hortofrutícola, colisión de 2 vehículos menores",6,3,1,0,,es,False,,bomberoschillan,0.220545,0.678455,0.101,NEU
+823638144474054656,2017-01-23 21:06:50+00:00,823638144474054656,"Móvil B2 sale en apoyo de Bomberos Cauquenes, incendio forestal",12,14,0,0,,es,False,,bomberoschillan,0.15625,0.743484,0.100265,NEU
+823634551360671745,2017-01-23 20:52:34+00:00,823634551360671745,"No arrojes colillas u objetos en combustión, papeles, plásticos, vidrios o cualquier tipo de residuo o material combustible #BomberosChillán",36,25,1,1,,es,False,,bomberoschillan,0.386527,0.566729,0.046744,NEU
+823583638801547264,2017-01-23 17:30:15+00:00,823583638801547264,"Preinforme en Villa El Crisol calle San Ignacio, fuego en pastizal y matorral de pequeña extensión, sin peligro",3,3,0,0,,es,False,,bomberoschillan,0.130492,0.781045,0.088463,NEU
+823581195044880389,2017-01-23 17:20:32+00:00,823581195044880389,"Móvil B6  sale a Villa El Crisol calle San Ignacio, fuego en pastizal",2,4,0,0,,es,False,,bomberoschillan,0.167027,0.731075,0.101898,NEU
+823390773580337152,2017-01-23 04:43:52+00:00,823390773580337152,Preinforme en San Nicolás incendio forestal en bosque de Eucaliptos con peligro a población en Sector Lomas de Puyaral,27,10,0,2,,es,False,,bomberoschillan,0.427985,0.50387,0.068144,NEU
+823383176202616833,2017-01-23 04:13:41+00:00,823383176202616833,"Móvil Bx3 sale a Ruta N-50 km 12, apoyo de Bomberos San Nicolás, fuego en pastizal",19,10,1,0,,es,False,,bomberoschillan,0.128166,0.754248,0.117585,NEU
+823300939880734721,2017-01-22 22:46:54+00:00,823300939880734721,"Móvil B1 sale camino a Pinto Puente El Gato, fuego en pastizal",35,18,4,0,,es,False,,bomberoschillan,0.181117,0.699293,0.119589,NEU
+823241756049371138,2017-01-22 18:51:44+00:00,823241756049371138,"Preinforme calle Huambali al fondo, fuego en pastizal de mediana extensión de rápido avance con peligro",12,11,1,1,,es,False,,bomberoschillan,0.320756,0.611142,0.068102,NEU
+823240713706016769,2017-01-22 18:47:35+00:00,823240713706016769,Móvil B5 sale a calle Huambali fuego en pastizal,3,4,2,0,,es,False,,bomberoschillan,0.175083,0.713398,0.111519,NEU
+823211870588993536,2017-01-22 16:52:59+00:00,823211870588993536,"Móvil Br7 sale a Sector Sur Quinchamalí,  fuego en pastizal",13,5,2,0,,es,False,,bomberoschillan,0.226208,0.666552,0.10724,NEU
+823034840287248386,2017-01-22 05:09:31+00:00,823034840287248386,Terremoto 8.0 1200km al este de Papua Nueva Guinea se evaluan los riesgos de Tsunami en las costas de Chile #ChillanOnLine,28,13,0,1,,es,False,,bomberoschillan,0.178321,0.716619,0.10506,NEU
+823034504889692161,2017-01-22 05:08:11+00:00,823034504889692161,SHOA evalúa en estos momentos posible Tsunami para las costas de Chile tras fuerte terremoto ocurrido en Papúa Nueva Guinea,42,13,4,0,,es,False,,bomberoschillan,0.205692,0.656949,0.137359,NEU
+822898651873890304,2017-01-21 20:08:21+00:00,822898651873890304,Bomberos Chillán  en móvil B2 sale en apoyo de CB de Quillón #ChillanOnLine,15,18,1,1,,es,False,,bomberoschillan,0.205313,0.679236,0.115451,NEU
+822863804308553732,2017-01-21 17:49:53+00:00,822863804308553732,Bomberos Chillán concurre en apoyo a Bomberos Bulnes por  incendio forestal fuera de control,85,54,7,1,,es,False,,bomberoschillan,0.577593,0.372765,0.049642,NEG
+822816780854902784,2017-01-21 14:43:02+00:00,822816780854902784,"Apoye a sus Bomberos con agua mineral, barras de cereal y energizantes https://t.co/PU2IbOt6mF",173,87,7,7,https://twitter.com/bomberoschillan/status/822816780854902784/photo/1,es,False,,bomberoschillan,0.071851,0.695224,0.232925,NEU
+822757489649348608,2017-01-21 10:47:26+00:00,822757489649348608,"Preinforme Villa Los Naranjos calle Las Canoas, fuego en pastizales, arboles de mediana extensión con peligro de propagación",6,2,0,0,,es,False,,bomberoschillan,0.344366,0.59434,0.061294,NEU
+822754389052059648,2017-01-21 10:35:07+00:00,822754389052059648,"Móvil B5 sale a Villa Los Naranjos calle Las Canoas, fuego en pastizal",3,1,0,0,,es,False,,bomberoschillan,0.159734,0.738266,0.102,NEU
+822597730887487490,2017-01-21 00:12:36+00:00,822597730887487490,"Móvil B4 sale a Maipón 1030, emanación de humo de local comercial",5,3,0,0,,es,False,,bomberoschillan,0.217344,0.68898,0.093676,NEU
+822584498797891587,2017-01-20 23:20:02+00:00,822584498797891587,"Bomberos Bulnes, Ñipas  y Cabrero trabajan en incendio forestal Sector Santa Elena en Santa Clara #ChillanOnLine",8,11,0,0,,es,False,,bomberoschillan,0.271107,0.619582,0.109311,NEU
+822556103548538880,2017-01-20 21:27:12+00:00,822556103548538880,"Móvil Bx3 sale a Autopista del Itata km 15, fuego en pastizal de rápido avance con peligro",14,6,1,0,,es,False,,bomberoschillan,0.182845,0.694823,0.122332,NEU
+822550153907335170,2017-01-20 21:03:33+00:00,822550153907335170,"Alarma de Incendio en Autopista del Itata km 15, fuego en pastizal y árboles de rápido avance con peligro a viviendas",38,11,2,0,,es,False,,bomberoschillan,0.410817,0.511284,0.077898,NEU
+822548134492573696,2017-01-20 20:55:32+00:00,822548134492573696,"Móvil B7 sale a Autopista del Itata km 15, fuego en pastizal y árboles de rápido avance con peligro",3,5,0,0,,es,False,,bomberoschillan,0.204973,0.672723,0.122304,NEU
+822547816383938561,2017-01-20 20:54:16+00:00,822547816383938561,"Preinforme en Autopista del Itata km 15, fuego en pastizal y árboles de rápido avance con peligro",9,2,0,0,,es,False,,bomberoschillan,0.370752,0.556363,0.072885,NEU
+822546496721715204,2017-01-20 20:49:01+00:00,822546496721715204,"Móvil Br7 sale a Autopista del Itata km 15, fuego en pastizal con peligro a vivienda",4,2,0,0,,es,False,,bomberoschillan,0.238598,0.638255,0.123146,NEU
+822523184377372673,2017-01-20 19:16:23+00:00,822523184377372673,"Móvil B1 sale a Ruta 5 Sur Panamericana Norte Bypass antiguo, fuego en pastizal",8,5,0,0,,es,False,,bomberoschillan,0.136244,0.746851,0.116905,NEU
+822520181285126144,2017-01-20 19:04:27+00:00,822520181285126144,"En Chillán, temperatura del momento en la ciudad https://t.co/NX6PBX0NBM",13,7,0,2,https://twitter.com/bomberoschillan/status/822520181285126144/photo/1,es,False,,bomberoschillan,0.149389,0.763594,0.087017,NEU
+822517759473020928,2017-01-20 18:54:50+00:00,822517759473020928,"Preinforme en 25 de Septiembre con Las Canoas cancha de Villa Eduardo Frei, fuego en pastizal de rápido avance, con peligro",2,6,0,0,,es,False,,bomberoschillan,0.360418,0.593631,0.045951,NEU
+822515386167992321,2017-01-20 18:45:24+00:00,822515386167992321,"Móvil B4 sale a 25 de Septiembre con Las Canoas cancha de Villa Eduardo Frei, fuego en pastizal",2,2,0,0,,es,False,,bomberoschillan,0.163965,0.744652,0.091383,NEU
+822514086474825728,2017-01-20 18:40:14+00:00,822514086474825728,"Móvil B6 sale camino a Quilmo antes de Puente El Diablo, fuego en pastizal, matorral con peligro",4,5,0,0,,es,False,,bomberoschillan,0.226162,0.666076,0.107762,NEU
+822512355540107265,2017-01-20 18:33:21+00:00,822512355540107265,"Preinforme camino a Quilmo antes de Puente El Diablo, fuego en pastizal, matorral con peligro",2,3,0,0,,es,False,,bomberoschillan,0.366512,0.570647,0.062842,NEU
+822509684120809472,2017-01-20 18:22:44+00:00,822509684120809472,"Móvil Bx3 sale camino a Quilmo antes de Puente El Diablo, fuego en pastizal",3,1,0,0,,es,False,,bomberoschillan,0.189038,0.687497,0.123465,NEU
+822508796660617221,2017-01-20 18:19:13+00:00,822508796660617221,"Móvil B5 sale a Ejército Chileno en la cancha El Ferro Sector Ultraestación, fuego en pastizal",1,1,0,0,,es,False,,bomberoschillan,0.237396,0.666357,0.096247,NEU
+822474503628423168,2017-01-20 16:02:57+00:00,822474503628423168,"Preinforme en Arturo Prat con Rosas, fuego en pastizal sin peligro de propagación se trabaja en el lugar",0,3,0,0,,es,False,,bomberoschillan,0.137531,0.750853,0.111616,NEU
+822471910827192320,2017-01-20 15:52:38+00:00,822471910827192320,"Móvil B5 sale a Arturo Prat con Rosas, fuego en pastizal",4,2,0,0,,es,False,,bomberoschillan,0.171958,0.734849,0.093193,NEU
+822437377075462145,2017-01-20 13:35:25+00:00,822437377075462145,"Essbio informa Corte de emergencia en Chillán, Sector Río Viejo, hasta las 14:30 hrs #ChillanOnLine",8,1,0,0,,es,False,,bomberoschillan,0.358097,0.536849,0.105054,NEU
+822434560822640640,2017-01-20 13:24:14+00:00,822434560822640640,"Móvil B4 sale a 18 de Septiembre 342, rescate de animal",1,2,0,0,,es,False,,bomberoschillan,0.055868,0.857141,0.086991,NEU
+822434449631617024,2017-01-20 13:23:47+00:00,822434449631617024,Apoye a sus Bomberos con agua y barras de cereal https://t.co/TRIYRYnP4u,35,20,0,1,https://twitter.com/bomberoschillan/status/822434449631617024/photo/1,es,False,,bomberoschillan,0.051529,0.703383,0.245088,NEU
+822401445441966081,2017-01-20 11:12:38+00:00,822401445441966081,"Preinforme en avda Coihueco con Raúl Silva Henríquez, colisión de microbús con jeep 1 persona lesionada",2,2,3,0,,es,False,,bomberoschillan,0.610682,0.336711,0.052607,NEG
+822400330063167489,2017-01-20 11:08:12+00:00,822400330063167489,"Móvil R1 sale a avda Coihueco con Raúl Silva Henríquez, colisión de microbús con vehículo menor 1 persona lesionada",1,0,0,0,,es,False,,bomberoschillan,0.398385,0.507752,0.093863,NEU
+822391913726676992,2017-01-20 10:34:46+00:00,822391913726676992,Bomberos Chillan sale a Callejon Ñuble Rupanco fuego en Bodega,4,0,0,0,,es,False,,bomberoschillan,0.320832,0.571214,0.107955,NEU
+822336062961971200,2017-01-20 06:52:50+00:00,822336062961971200,"Móvil Bx3 sale camino a San Bernardo frente a Los Dominicos, fuego en pastizal",1,0,0,0,,es,False,,bomberoschillan,0.179484,0.712272,0.108245,NEU
+822263449409515520,2017-01-20 02:04:17+00:00,822263449409515520,Móvil Q5 sale en apoyo de Bomberos Bulnes por incendio forestal Sector Pal Pal,6,3,0,1,,es,False,,bomberoschillan,0.175862,0.698515,0.125623,NEU
+822252698506555392,2017-01-20 01:21:34+00:00,822252698506555392,Móvil Z6 sale en apoyo de Bomberos Bulnes por incendio forestal #ChillanOnLine,9,7,1,0,,es,False,,bomberoschillan,0.304888,0.57755,0.117562,NEU
+822243199209054210,2017-01-20 00:43:49+00:00,822243199209054210,"Móvil Bx3 sale a Nueva Oriente psje Shangrilá, fuego en pastizal",4,2,0,0,,es,False,,bomberoschillan,0.124426,0.766878,0.108696,NEU
+822234600164491264,2017-01-20 00:09:39+00:00,822234600164491264,Movil X-4 sale en apoyo a Bulnes por Incendio Forestal Sector Santa Clara Rinconada Pal Pal,7,3,1,0,,es,False,,bomberoschillan,0.136556,0.750617,0.112827,NEU
+822231521629192192,2017-01-19 23:57:25+00:00,822231521629192192,"Farmacia: CRUZ VERDE
+Turno: Jueves 19-01-2017
+Hora Inicio: 21:00 hrs
+Hora Término: 08:59 hrs
+Comuna: CHILLAN
+Dirección: 5 DE ABRIL N° 701",5,4,0,0,,es,False,,bomberoschillan,0.150999,0.776493,0.072508,NEU
+822228778952912896,2017-01-19 23:46:31+00:00,822228778952912896,Móvil B6 sale en apoyo de Bomberos Bulnes por incendio forestal,12,4,0,0,,es,False,,bomberoschillan,0.160089,0.733589,0.106322,NEU
+822135716000002048,2017-01-19 17:36:43+00:00,822135716000002048,"Preinforme en Km 6 camino a Las Mariposas, fuego en troncos",4,0,0,0,,es,False,,bomberoschillan,0.275362,0.640881,0.083757,NEU
+822132341690826753,2017-01-19 17:23:19+00:00,822132341690826753,"Móvil Bx3 sale a Km 6 camino a Las Mariposas, fuego en pastizal",2,3,1,0,,es,False,,bomberoschillan,0.169591,0.712312,0.118097,NEU
+822127580413382656,2017-01-19 17:04:24+00:00,822127580413382656,"Móvil B4 sale a Arturo Prat con Rosas, fuego en pastizal",7,1,0,0,,es,False,,bomberoschillan,0.176851,0.736177,0.086972,NEU
+822124113787518976,2017-01-19 16:50:37+00:00,822124113787518976,"Preinforme Villa Las Américas Ejército Chileno con Lantaño, fuego en pastizal y matorral de mediana extensión con peligro",6,1,0,0,,es,False,,bomberoschillan,0.363821,0.581133,0.055047,NEU
+822120841395798017,2017-01-19 16:37:37+00:00,822120841395798017,"Móvil B5 sale a Villa Las Américas en Ejército Chileno con Lantaño, fuego en pastizal",5,3,0,0,,es,False,,bomberoschillan,0.179494,0.705996,0.114511,NEU
+822071555274444800,2017-01-19 13:21:46+00:00,822071555274444800,"Móvil B4 sale a Ejército Chileno con León Cazenave, fuego en pastizal",5,5,1,0,,es,False,,bomberoschillan,0.145613,0.754689,0.099699,NEU
+822067995165990913,2017-01-19 13:07:37+00:00,822067995165990913,"Preinforme en Ejército Chileno con León Cazenave, fuego en pastizal de avance rápido con peligro de propagación",5,3,0,0,,es,False,,bomberoschillan,0.244288,0.686066,0.069647,NEU
+822067313168027649,2017-01-19 13:04:55+00:00,822067313168027649,"Móvil B6 sale a Ejército Chileno con León Cazenave, fuego en pastizal",2,3,0,0,,es,False,,bomberoschillan,0.142574,0.752818,0.104608,NEU
+822065843647418368,2017-01-19 12:59:05+00:00,822065843647418368,"Móvil B5 sale a Ejército Chileno con León Cazenave, fuego en pastizal",0,3,0,0,,es,False,,bomberoschillan,0.145443,0.750944,0.103614,NEU
+821792564399443969,2017-01-18 18:53:10+00:00,821792564399443969,"Preinforme detrás de Departamentos Enrique Notte Chillán Viejo, fuego en pastizal y basura de mediana extensión",3,1,0,0,,es,False,,bomberoschillan,0.430967,0.529575,0.039458,NEU
+821789485843283972,2017-01-18 18:40:56+00:00,821789485843283972,"Móvil B6 sale a detrás de Departamentos Enrique Notte Chillán Viejo, fuego en pastizal",2,1,0,0,,es,False,,bomberoschillan,0.215004,0.67309,0.111906,NEU
+821773691243687937,2017-01-18 17:38:10+00:00,821773691243687937,"Móvil B7 sale a Caserío Linares, fuego en casa habitación",10,4,0,0,,es,False,,bomberoschillan,0.135707,0.780196,0.084097,NEU
+821703513134796800,2017-01-18 12:59:18+00:00,821703513134796800,"No dejes las llaves en lugares que Usted cree secreto para acceso de familiares o personal domestico, consejo de Bomberos Chillán.",6,4,0,1,,es,False,,bomberoschillan,0.271126,0.69994,0.028934,NEU
+821682349196931074,2017-01-18 11:35:12+00:00,821682349196931074,"Preinforme en Ejército Chileno con León Cazenave Sector Ultraestación, fuego en basura y árboles",2,1,1,0,,es,False,,bomberoschillan,0.467256,0.484186,0.048558,NEU
+821681111067754498,2017-01-18 11:30:17+00:00,821681111067754498,"Móvil B5 sale a Ejército Chileno con León Cazenave Sector Ultraestación, fuego en pastizal",1,1,0,0,,es,False,,bomberoschillan,0.209326,0.688852,0.101822,NEU
+821553865711566848,2017-01-18 03:04:39+00:00,821553865711566848,"Farmacia: CRUZ VERDE
+Turno: Martes 17-01-2017
+Hora Inicio: 21:00 hrs
+Hora Término: 08:59 hrs
+Comuna: CHILLAN
+Dirección: Maipón / I. Riquelme",1,3,2,0,,es,False,,bomberoschillan,0.202186,0.724919,0.072895,NEU
+821532600619634688,2017-01-18 01:40:09+00:00,821532600619634688,"Preinforme en pobl Bartolucci calle Ejército Chileno con Lantaño, fuego en pastizal y matorral con peligro a sede vecinal",4,3,0,0,,es,False,,bomberoschillan,0.404743,0.537868,0.057389,NEU
+821531432128540672,2017-01-18 01:35:31+00:00,821531432128540672,"Móvil Bx3 sale a pobl Bartolucci calle Ejército Chileno con Lantaño, fuego en pastizal con peligro a sede vecinal",6,1,0,0,,es,False,,bomberoschillan,0.260878,0.643411,0.095711,NEU
+821512671438708738,2017-01-18 00:20:58+00:00,821512671438708738,"Móvil Q5 sale camino a Coihueco Sector Pasó Alejo, animal caído a pozo",4,3,0,0,,es,False,,bomberoschillan,0.300754,0.575321,0.123925,NEU
+821466332210364421,2017-01-17 21:16:50+00:00,821466332210364421,"Móvil B6 sale a camino a San Bernardo frente a Subestación Monterrico, fuego en rastrojo de trigo de rápido avance",9,4,0,1,,es,False,,bomberoschillan,0.176346,0.705605,0.118049,NEU
+821465987841146880,2017-01-17 21:15:28+00:00,821465987841146880,"Preinforme camino a San Bernardo frente a Subestación Monterrico, fuego en rastrojo de trigo de rápido avance",3,2,0,0,,es,False,,bomberoschillan,0.219652,0.692842,0.087507,NEU
+821463473729179652,2017-01-17 21:05:28+00:00,821463473729179652,"Móvil Bx3 sale a camino a San Bernardo frente a Subestación Monterrico, fuego en pastizal",0,1,2,0,,es,False,,bomberoschillan,0.202084,0.687337,0.11058,NEU
+821417687435841536,2017-01-17 18:03:32+00:00,821417687435841536,"Móvil B5 sale a Callejón Ñuble Rupanco, fuego en pastizal",5,2,0,0,,es,False,,bomberoschillan,0.20861,0.672253,0.119136,NEU
+821415687251955713,2017-01-17 17:55:35+00:00,821415687251955713,RT @vickyvenegas96: @Abretubocaa @ChillanOnline @bomberoschillan hace 2 horas se robaron el perro de mi abuelo!! RT!!! Porfavor 😓 se ofrece…,59,0,0,0,,es,False,,bomberoschillan,0.868058,0.122978,0.008964,NEG
+821381521722449921,2017-01-17 15:39:49+00:00,821381521722449921,"Preinforme en avda Ecuador 11 Mirador del Parque, fuga de gas en departamento de Tercer Piso, se evalúa la situación",3,2,0,0,,es,False,,bomberoschillan,0.26368,0.689116,0.047204,NEU
+821378959904559105,2017-01-17 15:29:39+00:00,821378959904559105,"Bomberos Chillán sale camino Huape km 5, fuego en pastizal",8,3,0,0,,es,False,,bomberoschillan,0.264319,0.618428,0.117253,NEU
+821377780025856001,2017-01-17 15:24:57+00:00,821377780025856001,"Móvil H5 sale a avda Ecuador 11 Mirador del Parque, fuga de gas de casa habitación",6,2,0,0,,es,False,,bomberoschillan,0.390704,0.548164,0.061132,NEU
+821363385220599808,2017-01-17 14:27:45+00:00,821363385220599808,RT @Abretubocaa: Atención! se #robaron a #Teodoro en #Chillan es el #Pug de unos amigos! Por favor RT para que su familia lo encuentre @bom…,40,0,0,0,,es,False,,bomberoschillan,0.49538,0.45351,0.05111,NEG
+821308296434974721,2017-01-17 10:48:51+00:00,821308296434974721,"Móvil R4 sale a  avda O'Higgins con Santa Blanca., colisión 2 vehículos menores 1 persona atrapada",7,2,0,1,,es,False,,bomberoschillan,0.347842,0.563881,0.088277,NEU
+821176471079292929,2017-01-17 02:05:02+00:00,821176471079292929,"Preinforme camino a Las Mariposas km 6 Villa Las Delicias, rebrote de fuego encandescente en troncos sin peligro",8,6,0,0,,es,False,,bomberoschillan,0.282125,0.629668,0.088207,NEU
+821172227555160065,2017-01-17 01:48:10+00:00,821172227555160065,"Móvil Bx3 sale camino a Las Mariposas km 6 Villa Las Delicias, rebrote de fuego en pastizal",10,5,0,0,,es,False,,bomberoschillan,0.20108,0.69169,0.10723,NEU
+821168911290945536,2017-01-17 01:34:59+00:00,821168911290945536,"Farmacia: BARRIO SALUD
+Turno: Lunes 16-01-2017
+Hora Inicio: 21:00 hrs
+Hora Término: 08:59 hrs
+Comuna: CHILLAN
+Dirección: I.  RIQUELME N° 602",2,2,0,0,,es,False,,bomberoschillan,0.16487,0.757606,0.077525,NEU
+821164684204183553,2017-01-17 01:18:11+00:00,821164684204183553,Móvil Bx3 sale camino a San Bernardo frente a Los Dominicos,1,3,0,0,,pt,False,,bomberoschillan,0.135525,0.758579,0.105895,NEU
+821075098891325440,2017-01-16 19:22:13+00:00,821075098891325440,"Alarma de incendio camino a Las Mariposas km 6, fuego en pastizal con peligro de propagación",60,20,4,1,,es,False,,bomberoschillan,0.239435,0.664919,0.095645,NEU
+820946747287597056,2017-01-16 10:52:11+00:00,820946747287597056,"Preinforme en Antonio Varas con Humberto Rodríguez Chillán Viejo, fuego en pastizal, matorral con peligro a casa habitación, se trabaja",3,0,0,0,,es,False,,bomberoschillan,0.290708,0.637666,0.071627,NEU
+820945152722300928,2017-01-16 10:45:51+00:00,820945152722300928,"Móvil B6 sale a Antonio Varas con Humberto Rodríguez Chillán Viejo, fuego en pastizal",1,1,0,0,,es,False,,bomberoschillan,0.203546,0.678595,0.117859,NEU
+820942653730783232,2017-01-16 10:35:55+00:00,820942653730783232,"Preinforme en Independencia con El Roble, colisión de 2 vehículos menores, sin lesionados",5,1,0,0,,es,False,,bomberoschillan,0.27914,0.609442,0.111418,NEU
+820941514520010752,2017-01-16 10:31:24+00:00,820941514520010752,"Móvil R4 sale a Independencia con El Roble, colisión de camioneta con furgón, personas lesionadas en el lugar",1,1,1,0,,es,False,,bomberoschillan,0.308934,0.591433,0.099633,NEU
+820909777496735744,2017-01-16 08:25:17+00:00,820909777496735744,"Preinforme en Transportes Lamar con Los Andes, fuego en vehículo particular, se trabaja",0,1,0,0,,es,False,,bomberoschillan,0.184576,0.74811,0.067314,NEU
+820906515443945472,2017-01-16 08:12:19+00:00,820906515443945472,"Móvil B2 sale a Transportes Lamar con Los Andes, fuego en vehículo",3,2,0,0,,es,False,,bomberoschillan,0.174786,0.734185,0.091029,NEU
+820893769927184384,2017-01-16 07:21:40+00:00,820893769927184384,"Móvil Bx3 sale a Sector Cruce Cato, fuego en pastizal",1,1,0,0,,es,False,,bomberoschillan,0.166289,0.726016,0.107695,NEU
+820792309386276864,2017-01-16 00:38:30+00:00,820792309386276864,"Ampliación en Antonio Varas con Luis Araneda Chillán Viejo,  colisión 2 vehículos menores 1 lesionado",2,2,0,1,,es,False,,bomberoschillan,0.428956,0.453879,0.117165,NEU
+820790652531339264,2017-01-16 00:31:55+00:00,820790652531339264,"Preinforme en Antonio Varas con Luis Araneda Chillán Viejo,  colisión 2 vehículos menores sin personas atrapadas",5,3,1,0,,es,False,,bomberoschillan,0.351102,0.559081,0.089817,NEU
+820789841755590660,2017-01-16 00:28:42+00:00,820789841755590660,Móvil R4 sale a choque de vehiculo menor con pandereta 1 persona atrapada en Antonio Varas con Luis Araneda Chillán Viejo #ChillanOnLine,8,3,1,0,,es,False,,bomberoschillan,0.437139,0.484802,0.078059,NEU
+820775554697854977,2017-01-15 23:31:56+00:00,820775554697854977,"Preinforme en el Cuzco con Camino Nueva Rio Viejo Valle Hermoso, fuego en pastizal, matorral y basura, se trabaja",3,0,0,0,,es,False,,bomberoschillan,0.173706,0.753289,0.073004,NEU
+820773601016250368,2017-01-15 23:24:10+00:00,820773601016250368,"Móvil Bx3 sale a Cuzco con Camino Nueva Rio Viejo Valle Hermoso, fuego en pastizal",5,4,0,0,,es,False,,bomberoschillan,0.098509,0.787937,0.113554,NEU
+820752938721275904,2017-01-15 22:02:04+00:00,820752938721275904,"En vacaciones, un teléfono que no para de sonar es señal que la casa esta vacía; mejor bajar el volumen, consejo de Bomberos Chillán",11,9,0,0,,es,False,,bomberoschillan,0.92042,0.075034,0.004545,NEG
+820692143790555136,2017-01-15 18:00:29+00:00,820692143790555136,"Preinforme Ruta 5 Sur Sector Puente Nebuco dirección N/S, colisión lateral 2 vehículos menores 8 involucrados",9,2,0,0,,es,False,,bomberoschillan,0.219847,0.68411,0.096043,NEU
+820689481355370497,2017-01-15 17:49:54+00:00,820689481355370497,"Móvil R4 sale a Ruta 5 Sur Sector Puente Nebuco dirección N/S, colisión lateral 2 vehículos menores 1 lesionado",7,0,0,0,,es,False,,bomberoschillan,0.225163,0.673823,0.101014,NEU
+820688752821628934,2017-01-15 17:47:00+00:00,820688752821628934,"Móvil R4 sale a Ruta 5 Sur Sector Puente Nebuco dirección N/S, colisión",4,0,0,0,,es,False,,bomberoschillan,0.150797,0.733862,0.115341,NEU
+820674180995760129,2017-01-15 16:49:06+00:00,820674180995760129,"No difundir cuando nos vamos de vacaciones en las redes sociales, es algo muy común que hacemos todos, consejo de Bomberos Chillán",17,20,0,0,,es,False,,bomberoschillan,0.55013,0.427661,0.022209,NEG
+820669517546274816,2017-01-15 16:30:34+00:00,820669517546274816,"Preinforme camino a Yungay Santuario Schoenstatt, fuego en pastizal, matorral de mediana extensión que arde",6,2,0,0,,es,False,,bomberoschillan,0.728886,0.245664,0.02545,NEG
+820666968130932737,2017-01-15 16:20:27+00:00,820666968130932737,"Móvil Bx3 sale camino a Yungay Santuario Schoenstatt, fuego en pastizal",4,0,0,0,,es,False,,bomberoschillan,0.242017,0.654178,0.103805,NEU
+820621149323362304,2017-01-15 13:18:23+00:00,820621149323362304,"Preinforme camino a San Bernardo pasado las Torres de agua, fuego en pastizal sin peligro",1,2,0,0,,es,False,,bomberoschillan,0.232066,0.696989,0.070944,NEU
+820618553187569664,2017-01-15 13:08:04+00:00,820618553187569664,"Móvil Bx3 sale camino a San Bernardo pasado las Torres de agua, fuego en pastizal",5,1,0,0,,es,False,,bomberoschillan,0.175375,0.720633,0.103992,NEU
+820570420927729664,2017-01-15 09:56:48+00:00,820570420927729664,Pulso de cenizas emite el Volcán Nevados de Chillán #ChillanOnLine https://t.co/cDNz6diVHh,34,19,8,2,https://twitter.com/bomberoschillan/status/820570420927729664/photo/1,es,False,,bomberoschillan,0.771369,0.201312,0.027318,NEG
+820380834314285056,2017-01-14 21:23:27+00:00,820380834314285056,RT @Ruty56260644: No están funcionando los semáforos en Avda Argentina con Ecuador... Precaución,2,2,1,0,,es,False,,bomberoschillan,0.253921,0.659519,0.086559,NEU
+820330986051342336,2017-01-14 18:05:22+00:00,820330986051342336,"Preinforme en Nevados de Chillán Cerro Constancia con Los Panificadores, adulto mayor encerrado en casa habitación",0,3,0,0,,es,False,,bomberoschillan,0.432184,0.529377,0.038439,NEU
+820313775895171073,2017-01-14 16:56:59+00:00,820313775895171073,"Preinforme en Ruta 5 Sur Sector Los Colihues, fuego en pastizal, matorral con peligro se trabaja",3,1,0,0,,es,False,,bomberoschillan,0.332575,0.599718,0.067707,NEU
+820311113162227712,2017-01-14 16:46:24+00:00,820311113162227712,"Móvil B6 sale a Ruta 5 Sur Sector Los Colihues, fuego en pastizal",5,2,1,0,,es,False,,bomberoschillan,0.244594,0.622873,0.132533,NEU
+820303121628827648,2017-01-14 16:14:39+00:00,820303121628827648,"En Chillán, Semáforos de avda Ecuador con avda Argentina apagados...  Precaución #ChillanOnLine",6,4,0,0,,es,False,,bomberoschillan,0.850014,0.134894,0.015092,NEG
+820296742860009472,2017-01-14 15:49:18+00:00,820296742860009472,Valore la posibilidad de instalar un reloj programable que encienda y apague la luz en diferentes horarios consejo de Bomberos Chillán,6,2,0,0,,es,False,,bomberoschillan,0.040412,0.81093,0.148658,NEU
+820261654906671104,2017-01-14 13:29:52+00:00,820261654906671104,"Preinforme en Ruta 5 Sur cruce Los Colihues, fuego en pastizal matorral de gran extensión con peligro de propagación, se trabaja",4,2,0,0,,es,False,,bomberoschillan,0.227144,0.687151,0.085704,NEU
+820258794257215488,2017-01-14 13:18:30+00:00,820258794257215488,"Móvil B6 sale a Ruta 5 Sur cruce Los Colihues, fuego en pastizal",3,2,0,0,,es,False,,bomberoschillan,0.230991,0.641254,0.127754,NEU
+820239637503496192,2017-01-14 12:02:23+00:00,820239637503496192,RT @jenifferchillan: Semáforos de Los Puelches con Inglaterra desde ayer están apagados...  Precaución,0,2,0,0,,es,False,,bomberoschillan,0.672807,0.287397,0.039796,NEG
+820237148918075392,2017-01-14 11:52:30+00:00,820237148918075392,En Gamero con Arauco semáforos apagados...  Precaucion,3,2,3,0,,es,False,,bomberoschillan,0.552535,0.397459,0.050006,NEG
+820235212244287488,2017-01-14 11:44:48+00:00,820235212244287488,"Preinforme en Otto Schäfer con República, canino atrapado en ducto de alcantarilla, controlado",1,6,0,0,,es,False,,bomberoschillan,0.102643,0.812395,0.084962,NEU
+820054841561059330,2017-01-13 23:48:04+00:00,820054841561059330,"Farmacia: CRUZ VERDE
+Turno: Viernes 13-01-2017
+Hora Inicio: 21:00 hrs
+Hora Término: 08:59 hrs
+Comuna: CHILLAN
+Dirección: 5 DE ABRIL N° 701",2,0,0,0,,es,False,,bomberoschillan,0.146266,0.781035,0.072698,NEU
+819976875887960064,2017-01-13 18:38:16+00:00,819976875887960064,"En la playa, dejar su vehículo a buen recaudo. No deje nada dentro que pueda llamar la atención de algún delincuente, Bomberos Chillán",10,7,3,0,,es,False,,bomberoschillan,0.060692,0.81123,0.128078,NEU
+819956331151032321,2017-01-13 17:16:38+00:00,819956331151032321,"Preinforme en Luis Araneda con  Domingo Ortiz de Rozas Chillán Viejo, fuego en pastizal de mediana extensión sin peligro",3,3,0,0,,es,False,,bomberoschillan,0.228268,0.68437,0.087361,NEU
+819954350202220544,2017-01-13 17:08:45+00:00,819954350202220544,"Móvil B6 sale a Luis Araneda con  Domingo Ortiz de Rozas, fuego en pastizal",2,0,0,0,,es,False,,bomberoschillan,0.202748,0.701139,0.096112,NEU
+819950178937565184,2017-01-13 16:52:11+00:00,819950178937565184,RT @Jazminlagos25: Semáforos de Collin con Arauco como apagados...  precaución,3,3,0,0,,es,False,,bomberoschillan,0.612268,0.349723,0.038009,NEG
+819934086190026756,2017-01-13 15:48:14+00:00,819934086190026756,"Móvil B6 sale camino a Yungay Sector Pan de Azúcar, fuego en pastizal",1,2,0,0,,es,False,,bomberoschillan,0.240056,0.641749,0.118195,NEU
+819926451944390657,2017-01-13 15:17:54+00:00,819926451944390657,"Móvil Br7 sale a Sector Huechupin Fundo Los Nogales, fuego en pastizal",0,5,0,0,,es,False,,bomberoschillan,0.237527,0.659161,0.103312,NEU
+819908071275237376,2017-01-13 14:04:52+00:00,819908071275237376,"Preinforme en avda Brasil con Bulnes, colisión lateral de camión con furgón 1 persona lesionada",4,1,0,0,,es,False,,bomberoschillan,0.60738,0.340039,0.052581,NEG
+819904667576651776,2017-01-13 13:51:20+00:00,819904667576651776,"Móvil R4 sale a avda Brasil con Bulnes, colisión de camión con vehículo menor 1 persona atrapada",3,2,1,0,,es,False,,bomberoschillan,0.316077,0.593358,0.090565,NEU
+819691601391976448,2017-01-12 23:44:41+00:00,819691601391976448,"Móvil B1 y B2 salen a Hernando de Magallanes, fuego en casa habitación",2,2,0,0,,es,False,,bomberoschillan,0.121905,0.794843,0.083252,NEU
+819653417199140864,2017-01-12 21:12:57+00:00,819653417199140864,"Preinforme en km 14 camino a Huape Fundo San Francisco, fuego en pastizal, matorral y zarza con peligro",3,2,0,0,,es,False,,bomberoschillan,0.366218,0.5606,0.073182,NEU
+819646613744390146,2017-01-12 20:45:55+00:00,819646613744390146,"Móvil Bx7 y B5 salen a km 14 camino a Huape Fundo San Francisco, fuego en pastizales",6,3,0,0,,es,False,,bomberoschillan,0.195784,0.688211,0.116005,NEU
+819557288209973248,2017-01-12 14:50:58+00:00,819557288209973248,RT @lpnavarrete: Precaución pasado peaje Agua Amarilla Ruta del Itata tomates sueltos en pavimento... precaución,3,4,0,0,,es,False,,bomberoschillan,0.19784,0.695942,0.106218,NEU
+819552009275801600,2017-01-12 14:30:00+00:00,819552009275801600,"Si va salir de vacaciones por un tiempo prolongado, encargue su casa a un familiar, amigo o vecino,  consejo de Bomberos Chillán",2,10,0,0,,es,False,,bomberoschillan,0.149529,0.789776,0.060695,NEU
+819302570984357890,2017-01-11 21:58:49+00:00,819302570984357890,"Preinforme en Otto Schaefer 236  pobl Santa Elvira, fuego en horno controlado",3,4,0,0,,es,False,,bomberoschillan,0.183337,0.742208,0.074455,NEU
+819301942547595268,2017-01-11 21:56:19+00:00,819301942547595268,"Móvil B1 y B4 salen a Otto Schaefer 236  pobl Santa Elvira, fuego en casa habitación",7,4,0,0,,es,False,,bomberoschillan,0.140693,0.768949,0.090358,NEU
+819264470107246592,2017-01-11 19:27:25+00:00,819264470107246592,"Preinforme en camino a Yungay pasado Puente Las Lajuelas, volcamiento de vehículo menor, 3 involucrados 1 persona fallecida",18,7,1,0,,es,False,,bomberoschillan,0.497588,0.420869,0.081543,NEG
+819263078684643333,2017-01-11 19:21:53+00:00,819263078684643333,"Móvil R4 sale a camino a Yungay pasado Puente Las Lajuelas, volcamiento de vehículo menor",5,3,0,0,,es,False,,bomberoschillan,0.33699,0.557165,0.105845,NEU
+819249748096020480,2017-01-11 18:28:55+00:00,819249748096020480,"Preinforme en camino a Yungay frente al vertedero, fuego en galpones con peligro de propagación a pastizal, se trabaja",4,10,1,1,,es,False,,bomberoschillan,0.254588,0.662786,0.082627,NEU
+819064590965284864,2017-01-11 06:13:10+00:00,819064590965284864,"Móvil Q5 sale a km 10 camino a Coíhueco Sector Torovilo, caida de vacuno  en pozo",3,1,0,0,,es,False,,bomberoschillan,0.356921,0.541794,0.101285,NEU
+818990449612427264,2017-01-11 01:18:33+00:00,818990449612427264,"Farmacia: SALCOBRAND
+Turno: Martes 10-01-2017
+Hora Inicio: 21:00 hrs
+Hora Término: 08:59 hrs
+Comuna: CHILLAN
+Dirección: EL ROBLE N°699",3,0,0,0,,es,False,,bomberoschillan,0.183236,0.754003,0.062761,NEU
+818857716437385216,2017-01-10 16:31:07+00:00,818857716437385216,RT @Janomontoya75: Semáforos de Arauco con Collin en Chillán dejaron de funcionar,2,1,0,0,,es,False,,bomberoschillan,0.785104,0.193753,0.021143,NEG
+818799721070399488,2017-01-10 12:40:40+00:00,818799721070399488,"Semáforos de Alonso de Ercilla con Diagonal Las Termas en Chillán, no están funcionando... precaución #ChillanOnLine",3,2,0,0,,es,False,,bomberoschillan,0.90652,0.081847,0.011634,NEG
+818608806238310401,2017-01-10 00:02:03+00:00,818608806238310401,"Farmacia: CRUZ VERDE
+Turno: Lunes 09-01-2017
+Hora Inicio: 21:00 hrs
+Hora Término: 08:59 hrs
+Comuna: CHILLAN
+Dirección: 5 DE ABRIL N°731",4,2,0,0,,es,False,,bomberoschillan,0.161114,0.765731,0.073155,NEU
+818573105455136768,2017-01-09 21:40:11+00:00,818573105455136768,"Preinforme en Cataluña con Zaragoza,  fuego en pastizal y zarzarmora sin peligro, se trabaja",1,2,0,0,,es,False,,bomberoschillan,0.542131,0.426902,0.030967,NEG
+818571280999993346,2017-01-09 21:32:56+00:00,818571280999993346,"Móvil Bx3 sale a Cataluña con Zaragoza,  fuego en pastizal",6,2,0,0,,es,False,,bomberoschillan,0.207443,0.705863,0.086694,NEU
+818459435769233408,2017-01-09 14:08:30+00:00,818459435769233408,"Móvil B6  sale a Villa Padre Hurtado 3 psje Los Pastores 968 Chillán Viejo, menor atrapado en pieza de casa habitación",2,4,0,0,,es,False,,bomberoschillan,0.174151,0.717263,0.108585,NEU
+818303115510382592,2017-01-09 03:47:20+00:00,818303115510382592,"Preinforme en Las Canoas con Reino de Chile, fuego en pastizal de mediana extensión, se trabaja",3,1,0,0,,es,False,,bomberoschillan,0.16843,0.755186,0.076385,NEU
+818293641294872579,2017-01-09 03:09:41+00:00,818293641294872579,"Preinforme en avda O'Higgins con Bulnes, colisiòn 2 vehículos menores, alta liberaciòn de energía 2 personas lesionadas 1 atrapada",10,3,1,0,,es,False,,bomberoschillan,0.586248,0.371972,0.04178,NEG
+818292188794802177,2017-01-09 03:03:55+00:00,818292188794802177,"Móvil R4 sale a avda O'Higgins con Bulnes, colisiòn 2 vehículos menores, alta energía",12,4,1,1,,es,False,,bomberoschillan,0.190851,0.725308,0.08384,NEU
+818256668526055424,2017-01-09 00:42:46+00:00,818256668526055424,"Farmacia: CRUZ VERDE
+Turno: Domingo 08-01-2017
+Hora Inicio: 21:00 hrs
+Hora Término: 08:59 hrs
+Comuna: CHILLAN
+Dirección: ECUADOR Nº 599",2,2,0,0,,es,False,,bomberoschillan,0.136037,0.794853,0.06911,NEU
+818130590033735681,2017-01-08 16:21:47+00:00,818130590033735681,"Preinforme en psje Renegado pobl Santa Filonena, fuego en entretecho de casa habitación",10,3,0,0,,es,False,,bomberoschillan,0.299853,0.645035,0.055112,NEU
+818128620422123520,2017-01-08 16:13:57+00:00,818128620422123520,"Bomberos Chillán sale a psje Renegado pobl Santa Filonena, fuego en casa habitación",15,2,0,0,,es,False,,bomberoschillan,0.310667,0.586671,0.102662,NEU
+818095547185856512,2017-01-08 14:02:32+00:00,818095547185856512,"Preinforme en avda Los Puelches al frente de Supermercado Florencia, fuego en bodega sin peligro",3,6,2,0,,es,False,,bomberoschillan,0.217733,0.704361,0.077905,NEU
+818094400412745728,2017-01-08 13:57:59+00:00,818094400412745728,"Móvil B1, B4 y Q5 salen a avda Los Puelches al frente de Supermercado Florencia, fuego en casa habitación",11,4,0,0,,es,False,,bomberoschillan,0.143295,0.767878,0.088827,NEU
+817951703626555392,2017-01-08 04:30:57+00:00,817951703626555392,"Alarma General es en Colonia Bernardo O'Higgins ingreso por la  Villa Enmanuel al fondo, fuego en casa habitación",27,9,1,0,,es,False,,bomberoschillan,0.216281,0.709589,0.074129,NEU
+817944804726280194,2017-01-08 04:03:32+00:00,817944804726280194,"Alarma General en Villa Enmanuel psje Santa Margarita, fuego en casa habitación",44,9,10,1,,es,False,,bomberoschillan,0.174418,0.73766,0.087921,NEU
+817941563397591040,2017-01-08 03:50:39+00:00,817941563397591040,"Alarma de incendio Villa Enmanuel psje Santa Margarita,  fuego en casa habitacion",27,6,4,2,,es,False,,bomberoschillan,0.203335,0.695261,0.101404,NEU
+817902741158772736,2017-01-08 01:16:24+00:00,817902741158772736,"Farmacia: SANTOS
+Turno: Sábado 07-01-2017
+Hora Inicio: 21:00 hrs
+Hora Término: 08:59 hrs
+Comuna: CHILLAN
+Dirección: AVDA. ARGENTINA Nº 440",1,1,1,0,,es,False,,bomberoschillan,0.125437,0.791439,0.083124,NEU
+817886704405270529,2017-01-08 00:12:40+00:00,817886704405270529,"Preinforme en Zaragoza con Los Cóndores, fuego en pastizal, matorral y basura de mediana extensión sin peligro",1,1,0,0,,es,False,,bomberoschillan,0.408158,0.549236,0.042607,NEU
+817885113904234500,2017-01-08 00:06:21+00:00,817885113904234500,"Móvil Bx3 sale a Zaragoza con Los Cóndores, fuego en pastizal",1,2,0,0,,es,False,,bomberoschillan,0.164908,0.75193,0.083162,NEU
+817871215754936320,2017-01-07 23:11:07+00:00,817871215754936320,Semáforos de Parque Lantaño esquina Ruiz de Gamboa aún siguen sin funcionar...  precaución #ChillanOnLine https://t.co/VltClaeonJ,11,7,0,0,https://twitter.com/bomberoschillan/status/817871215754936320/photo/1,es,False,,bomberoschillan,0.892599,0.096657,0.010745,NEG
+817853205140959232,2017-01-07 21:59:33+00:00,817853205140959232,"Móvil Bx3 sale a Ruta a Alonso de Ercilla frente a Doña Francisca III, fuego en pastizal",4,4,0,1,,es,False,,bomberoschillan,0.224372,0.671712,0.103915,NEU
+817812770649468928,2017-01-07 19:18:53+00:00,817812770649468928,"Bomberos Chillan sale camino San Bernardo frente a Villa Verde Parque, fuego en pastizal",7,1,0,0,,es,False,,bomberoschillan,0.344166,0.55514,0.100694,NEU
+817753908307259393,2017-01-07 15:24:59+00:00,817753908307259393,¡Hazte Socio de Bomberos! Campaña que se realiza con la boleta del agua en el Paseo Arauco https://t.co/hEFphiF6ot,5,5,1,1,https://twitter.com/bomberoschillan/status/817753908307259393/photo/1,es,False,,bomberoschillan,0.057301,0.515393,0.427306,NEU
+817748180607574017,2017-01-07 15:02:13+00:00,817748180607574017,"Semáforos de Parque Lantaño con Ruiz de Gamboa, semáforos hace dos días que no están funcionando...  precaución",5,2,1,0,,es,False,,bomberoschillan,0.870106,0.114479,0.015415,NEG
+817743546539274241,2017-01-07 14:43:49+00:00,817743546539274241,¡Hazte Socio de Bomberos! Campaña que realiza la institución con la boleta del agua en el Paseo Arauco https://t.co/qYqqznSXMB,8,0,0,0,https://twitter.com/bomberoschillan/status/817743546539274241/photo/1,es,False,,bomberoschillan,0.056411,0.518326,0.425263,NEU
+817737894563631104,2017-01-07 14:21:21+00:00,817737894563631104,"¡Hazte socio de Bomberos!,  trae tú  boleta del agua a la exposición en el Paseo Arauco que realiza Bomberos Chillán y coopera. https://t.co/Kkq83kMz0H",11,6,0,1,https://twitter.com/bomberoschillan/status/817737894563631104/photo/1,es,False,,bomberoschillan,0.088297,0.535869,0.375834,NEU
+817541734511079429,2017-01-07 01:21:53+00:00,817541734511079429,"Farmacia: BARRIOSALUD
+Turno: Viernes 06-01-2017
+Hora Inicio: 21:00 hrs
+Hora Término: 08:59 hrs
+Comuna: CHILLAN
+Dirección: ARAUCO N°637",3,1,1,0,,es,False,,bomberoschillan,0.16882,0.762306,0.068874,NEU
+817476835151937536,2017-01-06 21:04:00+00:00,817476835151937536,"Móvil B6 sale camino a Yungay Fundo Santa Rita, fuego en pastizal",3,1,0,0,,es,False,,bomberoschillan,0.222971,0.667266,0.109763,NEU
+817407826872205312,2017-01-06 16:29:47+00:00,817407826872205312,"En Chillán, semáforos de Av. Collin con Arauco fuera de servicio...  precaución",5,2,0,0,,es,False,,bomberoschillan,0.629278,0.330413,0.040308,NEG
+817392036403875843,2017-01-06 15:27:02+00:00,817392036403875843,Bomberos Chillán realizará exposición en el Paseo Arauco este sábado desde las 10:00 hrs en el Paseo Arauco además de Campaña Hazte Socio https://t.co/AFw9d0Ts6F,9,10,2,0,https://twitter.com/bomberoschillan/status/817392036403875843/photo/1,es,False,,bomberoschillan,0.055714,0.554419,0.389867,NEU
+817382193425215489,2017-01-06 14:47:55+00:00,817382193425215489,Pulso de cenizas desde el Volcán Nevados de Chillán https://t.co/m8v7djtK9v,40,10,0,1,https://twitter.com/bomberoschillan/status/817382193425215489/photo/1,es,False,,bomberoschillan,0.349162,0.530328,0.120511,NEU
+817380612944392192,2017-01-06 14:41:38+00:00,817380612944392192,Reunión Constitutiva del Honorable Directorio General del Cuerpo de Bomberos de Chillán año 2017 https://t.co/YuR3sOC71Y,0,4,0,0,https://twitter.com/bomberoschillan/status/817380612944392192/photo/1,es,False,,bomberoschillan,0.126605,0.698465,0.174929,NEU
+817376866457845760,2017-01-06 14:26:45+00:00,817376866457845760,Jardín Infantil Padre Hurtado realiza colaboración consistente en agua mineral y barras de cereales a Bomberos Sexta Compañía https://t.co/9AIrUB54Wn,13,21,0,0,https://twitter.com/bomberoschillan/status/817376866457845760/photo/1,es,False,,bomberoschillan,0.048219,0.598807,0.352974,NEU
+817330908382588929,2017-01-06 11:24:08+00:00,817330908382588929,RT @La_mOrsh: Semáforos  apagados en Avda. El Tejar con Avda. O'higgins... precaución,4,3,0,0,,es,False,,bomberoschillan,0.429209,0.488967,0.081824,NEU
+817224019191668736,2017-01-06 04:19:24+00:00,817224019191668736,"Preinforme camino a Yungay Sector Las Lajuelas, fuego en pastizal y matorral sin peligro, se trabaja",4,2,0,0,,es,False,,bomberoschillan,0.212787,0.692033,0.09518,NEU
+817214752506150912,2017-01-06 03:42:34+00:00,817214752506150912,"Móvil B6 sale camino a Yungay Sector Las Lajuelas, fuego en pastizal",7,2,0,0,,es,False,,bomberoschillan,0.243956,0.636864,0.11918,NEU
+817190438331359233,2017-01-06 02:05:57+00:00,817190438331359233,"Móvil B7 Sector La Cantera, fuego en pastizal, matorral y árboles con peligro",0,1,1,0,,es,False,,bomberoschillan,0.169191,0.710803,0.120006,NEU
+817190208462524417,2017-01-06 02:05:03+00:00,817190208462524417,"Preinforme en Quinchamali Sector La Cantera, fuego en pastizal, matorral y árboles con peligro",1,1,0,0,,es,False,,bomberoschillan,0.386777,0.546131,0.067092,NEU
+817187162126958592,2017-01-06 01:52:56+00:00,817187162126958592,"Móvil Br7 sale a Sector La Cantera, fuego en pastizal y árboles con peligro",2,0,0,0,,es,False,,bomberoschillan,0.248899,0.648665,0.102436,NEU
+817156014415945728,2017-01-05 23:49:10+00:00,817156014415945728,"Móvil Bx3 sale a Sector Río Viejo  Nueva Río Sur, fuego en pastizal",5,1,0,0,,es,False,,bomberoschillan,0.154355,0.735129,0.110516,NEU
+817151134896914432,2017-01-05 23:29:47+00:00,817151134896914432,Preinforme camino a Quinchamalí Cruce Huape colisión frontal de camioneta con vehículo menor 5 personas lesionadas,11,2,0,0,,es,False,,bomberoschillan,0.545408,0.392881,0.061711,NEG
+817149090127577088,2017-01-05 23:21:39+00:00,817149090127577088,Móvil R4 sale a Sector Cruce camino a Huape colisión 2 vehículos menores 5 personas involucradas,7,2,0,0,,es,False,,bomberoschillan,0.241749,0.642715,0.115536,NEU
+817132802479165440,2017-01-05 22:16:56+00:00,817132802479165440,¡Hazte Socio de Bomberos Chillán! con la boleta del agua. https://t.co/NlgZp4IEws,11,4,0,0,https://twitter.com/bomberoschillan/status/817132802479165440/photo/1,es,False,,bomberoschillan,0.114847,0.609491,0.275662,NEU
+817127806694027264,2017-01-05 21:57:05+00:00,817127806694027264,"RT @CataFigueroaf: Avenida Ohiggins con calle Santa Blanca semáforos apagados, precaución.",2,0,0,0,,es,False,,bomberoschillan,0.295864,0.602593,0.101544,NEU
+817048403028877313,2017-01-05 16:41:33+00:00,817048403028877313,"Preinforme en Conde del Maule con Los Olmos, fuego en basura sin peligro, se trabaja",3,2,0,0,,es,False,,bomberoschillan,0.158344,0.7289,0.112756,NEU
+817046193230479361,2017-01-05 16:32:47+00:00,817046193230479361,"Móvil B6 sale a Conde del Maule con Los Olmos, fuego en pastizal",4,1,0,0,,es,False,,bomberoschillan,0.201369,0.683087,0.115544,NEU
+817013061479526400,2017-01-05 14:21:07+00:00,817013061479526400,"Móvil B1 sale a Andrés Bello segunda entrada UBB, fuego en pastizal",2,1,0,1,,es,False,,bomberoschillan,0.133324,0.769552,0.097125,NEU
+816990055076167680,2017-01-05 12:49:42+00:00,816990055076167680,¡Hazte socio de Bomberos! Campaña que realizará Bomberos Chillán con el aporte de la boleta del agua desde este sábado en el Paseo Arauco https://t.co/H9Ap6Uq4a4,10,3,2,0,https://twitter.com/bomberoschillan/status/816990055076167680/photo/1,es,False,,bomberoschillan,0.054913,0.535972,0.409115,NEU
+816706321378639872,2017-01-04 18:02:15+00:00,816706321378639872,"Móvil B5 sale a avda Andrés Bello UBB, fuego en pastizal",33,9,2,1,,es,False,,bomberoschillan,0.139485,0.750745,0.10977,NEU
+816703612042805255,2017-01-04 17:51:29+00:00,816703612042805255,"Móvil B6 sale camino a San Bernardo Villa Los Dominicos, fuego en pastizal con peligro",17,6,0,1,,es,False,,bomberoschillan,0.170752,0.712816,0.116432,NEU
+816701316806234112,2017-01-04 17:42:22+00:00,816701316806234112,"Preinforme camino a San Bernardo Villa Los Dominicos, fuego en pastizal con peligro, se trabaja",9,0,0,0,,es,False,,bomberoschillan,0.208336,0.714529,0.077135,NEU
+816699187786084352,2017-01-04 17:33:54+00:00,816699187786084352,"Móvil B1 sale camino a San Bernardo Villa Los Dominicos, fuego en pastizal",5,3,5,0,,es,False,,bomberoschillan,0.157695,0.730091,0.112214,NEU
+816663887126859776,2017-01-04 15:13:38+00:00,816663887126859776,"Preinforme en avda Sepúlveda Bustos pasado el Cementerio Municipal, fuego en casa habitación",9,3,0,0,,es,False,,bomberoschillan,0.252044,0.68363,0.064326,NEU
+816661308129087493,2017-01-04 15:03:23+00:00,816661308129087493,"Móvil B4 y B6 salen a avda Sepúlveda Bustos pasado el Cementerio, fuego en casa habitación",7,2,0,0,,es,False,,bomberoschillan,0.141508,0.775774,0.082718,NEU
+816658540253376512,2017-01-04 14:52:23+00:00,816658540253376512,"Con una exposición de su material y móviles a la comunidad en el Paseo Arauco, realizará Bomberos Chillán este sábado desde las 10:30 hrs.",1,6,0,0,,es,False,,bomberoschillan,0.048484,0.597673,0.353844,NEU
+816629942406574080,2017-01-04 12:58:45+00:00,816629942406574080,"Preinforme camino a San Bernardo, fuego en pastizal FALSA ALARMA",2,0,0,0,,es,False,,bomberoschillan,0.249716,0.692632,0.057652,NEU
+816626840831987712,2017-01-04 12:46:25+00:00,816626840831987712,"Móvil B1 sale camino a San Bernardo, fuego en pastizal",1,1,0,0,,es,False,,bomberoschillan,0.152088,0.732789,0.115123,NEU
+816436564029034496,2017-01-04 00:10:20+00:00,816436564029034496,"Preinforme en Paseo de Aragón psje Gallo Canta, fuego en basura, controlado",0,3,1,0,,es,False,,bomberoschillan,0.267481,0.675564,0.056955,NEU
+816435947038502912,2017-01-04 00:07:53+00:00,816435947038502912,"Farmacia: SALCOBRAND
+Turno: Martes 03-01-2017
+Hora Inicio: 21:00 hrs
+Hora Término: 08:59 hrs
+Comuna: CHILLAN
+Dirección: FCO RAMÍREZ Nº 1",0,2,1,0,,es,False,,bomberoschillan,0.178976,0.759294,0.06173,NEU
+816434568374976512,2017-01-04 00:02:24+00:00,816434568374976512,"Móvil B1 sale a Paseo de Aragón psje Gallo Canta, fuego en pastizal",2,1,0,0,,es,False,,bomberoschillan,0.160694,0.733015,0.106291,NEU
+816385326319095808,2017-01-03 20:46:44+00:00,816385326319095808,"Móvil R4 sale a avda España 430, caída a nivel de adulto mayor",6,2,0,0,,es,False,,bomberoschillan,0.340829,0.602399,0.056771,NEU
+816380848421249024,2017-01-03 20:28:56+00:00,816380848421249024,"Preinforme en entrada camino a Quilmo, fuego en pastizal de mediana extensión",2,1,0,0,,es,False,,bomberoschillan,0.254588,0.667756,0.077656,NEU
+816379014638026754,2017-01-03 20:21:39+00:00,816379014638026754,"Móvil B1 sale a entrada camino a Quilmo, fuego en pastizal",1,1,0,0,,es,False,,bomberoschillan,0.174579,0.714954,0.110467,NEU
+816359147184726016,2017-01-03 19:02:42+00:00,816359147184726016,Preinforme en Sargento Aldea con Arturo  Prat colisión 2 vehículos menores posterior volcamiento uno de ellos 1 lesionado,6,2,0,0,,es,False,,bomberoschillan,0.404237,0.526211,0.069552,NEU
+816358278586306560,2017-01-03 18:59:15+00:00,816358278586306560,Móvil R4 sale a Sargento Aldea con Arturo  Prat volcamiento de vehiculo 1 lesionado,6,1,0,0,,es,False,,bomberoschillan,0.303639,0.602161,0.094199,NEU
+816104577141534720,2017-01-03 02:11:08+00:00,816104577141534720,"Farmacia: DR. SIMI
+Turno: Lunes 02-01-2017
+Hora Inicio: 21:00 hrs
+Hora Término: 08:59 hrs
+Comuna: CHILLAN
+Dirección: MAIPON 723",3,1,0,0,,es,False,,bomberoschillan,0.195562,0.745095,0.059343,NEU
+816101951444238336,2017-01-03 02:00:42+00:00,816101951444238336,"Preinforme en camino San Bernardo costado Línea 11, fuego en pastizal, matorral con peligro, se trabaja",5,2,0,0,,es,False,,bomberoschillan,0.240502,0.686897,0.072602,NEU
+816098715874238464,2017-01-03 01:47:50+00:00,816098715874238464,"Móvil B4 sale a camino San Bernardo costado Línea 11, fuego en pastizal",7,3,0,1,,es,False,,bomberoschillan,0.188728,0.701355,0.109917,NEU
+816096453466685441,2017-01-03 01:38:51+00:00,816096453466685441,"Móvil B1 y B4 salen a Lomas de Oriente Manquehue 509,  fuego en casa habitación #ChillanOnLine",19,0,0,0,,es,False,,bomberoschillan,0.182552,0.735833,0.081615,NEU
+816072336810082304,2017-01-03 00:03:01+00:00,816072336810082304,"Móvil B5 sale camino a Las Mariposas km 12 psje Los Acacios, fuego en pastizal",10,2,1,0,,es,False,,bomberoschillan,0.194606,0.676894,0.1285,NEU
+816059402172170242,2017-01-02 23:11:37+00:00,816059402172170242,"Móvil B2 sale a camino a San Bernardo Villa Los Dominicos, fuego en pastizal",5,0,0,0,,es,False,,bomberoschillan,0.15955,0.726773,0.113677,NEU
+816053211962494976,2017-01-02 22:47:01+00:00,816053211962494976,Móvil B4 sale camino a San Bernardo Villa Los Dominicos fuego en pastizal,7,0,0,0,,es,False,,bomberoschillan,0.161042,0.720083,0.118875,NEU
+816049468277747712,2017-01-02 22:32:09+00:00,816049468277747712,"Alarma de Incendio camino a Las Mariposas km 4,5, fuego en casa habitación",18,6,0,0,,es,False,,bomberoschillan,0.140705,0.754798,0.104497,NEU
+816047160181587968,2017-01-02 22:22:59+00:00,816047160181587968,"Móvil B1 y H5 salen a camino a Las Mariposas km 4,5, fuego en casa habitación",11,3,1,0,,es,False,,bomberoschillan,0.113126,0.7791,0.107774,NEU
+816025979810435073,2017-01-02 20:58:49+00:00,816025979810435073,"Móvil B6 sale a Ruta 5 Sur Sector Nebuco, fuego en pastizal",5,2,1,0,,es,False,,bomberoschillan,0.169711,0.718057,0.112232,NEU
+816024701839491072,2017-01-02 20:53:44+00:00,816024701839491072,"Móvil B2 sale a Ruta 5 Sur entrada de Rucapequén, fuego en pastizal",7,3,0,0,,es,False,,bomberoschillan,0.156855,0.726404,0.11674,NEU
+816022024015544320,2017-01-02 20:43:06+00:00,816022024015544320,"Móvil Z6 sale a Ruta 5 Sur Sector Nebuco, fuego en pastizal",5,2,1,1,,es,False,,bomberoschillan,0.214518,0.679539,0.105943,NEU
+816020626704101376,2017-01-02 20:37:32+00:00,816020626704101376,"Móvil B5 sale a Ruta 5 Sur Sector Nebuco, fuego en pastizal",0,3,1,0,,es,False,,bomberoschillan,0.172062,0.71685,0.111088,NEU
+815990898391744512,2017-01-02 18:39:25+00:00,815990898391744512,"Antes de salir de la ciudad, revise bien su vehículo y vea que este se encuentra con todos los dispositivos de emergencia, Bomberos Chillán",3,7,0,0,,es,False,,bomberoschillan,0.060687,0.758168,0.181146,NEU
+815987658061213696,2017-01-02 18:26:32+00:00,815987658061213696,Nos informan que ya habría aparecido joven alumna del Colegio Concepción https://t.co/s4fiKNJg0q,25,28,3,2,https://twitter.com/bomberoschillan/status/815987658061213696/photo/1,es,False,,bomberoschillan,0.154837,0.735963,0.1092,NEU
+815983967191072769,2017-01-02 18:11:52+00:00,815983967191072769,"Se extravió alumna del Colegio Concepción el día viernes 30, ayudar a difundir la información https://t.co/SXNLJptC5W",46,5,2,2,https://twitter.com/bomberoschillan/status/815983967191072769/photo/1,es,False,,bomberoschillan,0.139697,0.746051,0.114252,NEU
+815929670898171904,2017-01-02 14:36:07+00:00,815929670898171904,"Semáforos en avda O Higgins  desde Collín hacia Chillán Viejo, se encuentran apagados.. precaución",9,6,0,0,,es,False,,bomberoschillan,0.547565,0.406931,0.045505,NEG
+815761354665693184,2017-01-02 03:27:17+00:00,815761354665693184,"Ampliación del preinforme sale a avda Brasil con Maipón, colisión de Bus con vehículo menor 2 personas lesionadas",8,2,1,0,,es,False,,bomberoschillan,0.465152,0.466589,0.068259,NEU
+815759152064692224,2017-01-02 03:18:32+00:00,815759152064692224,"Preinforme sale a avda Brasil con Maipón, colisión de Bus con vehículo menor 1 persona lesionada",3,2,0,0,,es,False,,bomberoschillan,0.469392,0.463176,0.067432,NEG
+815757638084558848,2017-01-02 03:12:31+00:00,815757638084558848,"Móvil R4 sale a avda Brasil con Maipón, colisión de Bus con vehículo menor",7,3,0,0,,es,False,,bomberoschillan,0.291174,0.613343,0.095483,NEU
+815749947173851136,2017-01-02 02:41:57+00:00,815749947173851136,"Preinforme camino a San Bernardo frente a Los Dominicos, fuego en pastizal de mediana extensión, se trabaja",7,5,0,0,,es,False,,bomberoschillan,0.219283,0.696417,0.0843,NEU
+815747918556700672,2017-01-02 02:33:54+00:00,815747918556700672,"Móvil B1 sale camino a San Bernardo frente a Los Dominicos, fuego en pastizal",5,1,0,0,,es,False,,bomberoschillan,0.178866,0.712108,0.109027,NEU
+815739165740515328,2017-01-02 01:59:07+00:00,815739165740515328,"Alarma de incendio Km 14 Camino a las Mariposas Balneario Municipal, fuego en pastizal #ChillanOnLine",35,12,1,0,,es,False,,bomberoschillan,0.373621,0.550017,0.076362,NEU
+815677055648022529,2017-01-01 21:52:19+00:00,815677055648022529,RT @Belenciis: Semáforos avenida Coihueco con Francisco Ramírez apagados PRECAUCIÓN https://t.co/I2tDaJ9qVV,3,0,1,0,https://twitter.com/Belenciis/status/815674142146129922/photo/1,es,False,,bomberoschillan,0.449139,0.456378,0.094482,NEU
+815660631034630145,2017-01-01 20:47:03+00:00,815660631034630145,RT @nqsobell: Por favor difundir!! https://t.co/kSjBRKPHNL,50,10,0,1,https://twitter.com/bomberoschillan/status/815660631034630145/photo/1,es,False,,bomberoschillan,0.120146,0.631461,0.248393,NEU
+815659497670709249,2017-01-01 20:42:33+00:00,815659497670709249,RT @nqsobell: Por favor difundir!! https://t.co/ojj775gh7Z,18,4,2,0,https://twitter.com/i/web/status/815658971939880960,es,False,,bomberoschillan,0.120146,0.631461,0.248393,NEU
+815586485105754113,2017-01-01 15:52:25+00:00,815586485105754113,"Farmacia: CRUZ VERDE
+Turno: Domingo 01-01-2017
+Comuna: CHILLAN 
+Dirección: 5 DE ABRIL N° 701",1,0,0,0,,es,False,,bomberoschillan,0.119944,0.807779,0.072278,NEU
+815549756776873984,2017-01-01 13:26:28+00:00,815549756776873984,RT @CLAUDIOGOISEL: Camioneta volcada y colgada en  tensores Vicente Méndez con Paul Harris https://t.co/HsX7sv5FY6,15,6,3,3,https://twitter.com/CLAUDIOGOISEL/status/815539219464679424/photo/1,es,False,,bomberoschillan,0.534771,0.392948,0.072281,NEG
+815549297685102592,2017-01-01 13:24:39+00:00,815549297685102592,"RT @urgenciasnuble: Semaforos de Avenida Collin se encuentran apagados, precaución",0,3,0,0,,es,False,,bomberoschillan,0.294729,0.629826,0.075445,NEU
+815549072010579968,2017-01-01 13:23:45+00:00,815549072010579968,RT @CataFigueroaf: Sector Chillan Viejo (Baquedano) semáforos apagados y sin energía las casas,2,1,0,0,,es,False,,bomberoschillan,0.841911,0.141372,0.016717,NEG
+815412952304119809,2017-01-01 04:22:52+00:00,815412952304119809,"Móvil B5 sale camino a Las Mariposas Parcela Monterrico, fuego en pastizal",6,0,0,0,,es,False,,bomberoschillan,0.160147,0.728686,0.111167,NEU
+815411221620998144,2017-01-01 04:15:59+00:00,815411221620998144,"Preinforme en Flores Millán con Diego de Almagro, colisión 2 vehículos menores sin lesionados",4,0,1,0,,es,False,,bomberoschillan,0.228654,0.653839,0.117507,NEU
+815409951292215297,2017-01-01 04:10:56+00:00,815409951292215297,"Móvil R1 sale a Flores Millán con Diego de Almagro, colisión múltiple",7,2,2,0,,es,False,,bomberoschillan,0.183036,0.718217,0.098748,NEU
+815407414858121216,2017-01-01 04:00:51+00:00,815407414858121216,"Móvil B1 sale a Parque Habitación Nueva Río Viejo avda Nueva Sur al fondo, fuego en pastizal",7,2,2,0,,es,False,,bomberoschillan,0.136752,0.749778,0.11347,NEU
+815403534745276416,2017-01-01 03:45:26+00:00,815403534745276416,"Preinforme en Villa Verde Parque, fuego en pastizal de mediana extensión",2,2,1,0,,es,False,,bomberoschillan,0.277425,0.647934,0.074641,NEU
+815401918155685892,2017-01-01 03:39:01+00:00,815401918155685892,"Ampliación preinforme en pobl Luis Cruz Martínez Simón Bolívar 1266, fuego en entretecho de 2 viviendas con propagación",14,5,0,0,,es,False,,bomberoschillan,0.202578,0.714768,0.082655,NEU
+815401105433706498,2017-01-01 03:35:47+00:00,815401105433706498,"Móvil B5 sale a Villa Verde Parque, fuego en pastizal",6,1,0,0,,es,False,,bomberoschillan,0.134732,0.750395,0.114873,NEU
+815400592789094400,2017-01-01 03:33:45+00:00,815400592789094400,"Preinforme en Alonso de Ercilla costado Sidney College, fuego en pastizal FALSA ALARMA",8,1,1,3,,es,False,,bomberoschillan,0.303344,0.644643,0.052014,NEU
+815399917283901442,2017-01-01 03:31:04+00:00,815399917283901442,"Preinforme en pobl Luis Cruz Martínez Simón Bolívar 1266, fuego en entretecho de casa habitación",13,4,0,0,,es,False,,bomberoschillan,0.157384,0.781316,0.061301,NEU
+815399338360864768,2017-01-01 03:28:46+00:00,815399338360864768,"Móvil B1 sale a pobl Luis Cruz Martínez Simón Bolívar 1266, fuego en casa habitación",10,3,0,0,,es,False,,bomberoschillan,0.117454,0.783181,0.099365,NEU
+815398701409648640,2017-01-01 03:26:14+00:00,815398701409648640,"Móvil B5 sale a Alonso de Ercilla costado Sidney College, fuego en pastizal",9,1,0,0,,es,False,,bomberoschillan,0.173107,0.730808,0.096085,NEU
+815367424916783104,2017-01-01 01:21:57+00:00,815367424916783104,"Bomberos Ñiquen sale Ruta 5 Sur Sector Pasarela Virguin sentido Sur - Norte, fuego de pastizales #ChillanOnLine",0,0,0,0,,es,False,,bomberoschillan,0.376378,0.538192,0.08543,NEU
+815364852847878144,2017-01-01 01:11:44+00:00,815364852847878144,"La mayor parte de los accidentes que ocurren en horas de la madrugada son por personas bajo efectos del alcohol, consejo Bomberos Chillán",6,2,1,0,,es,False,,bomberoschillan,0.655029,0.322298,0.022673,NEG
+815364197445992448,2017-01-01 01:09:08+00:00,815364197445992448,"Durante estas fiestas es necesario determinar quién será el conductor designado, es un consejo de Bomberos Chillán",2,4,0,0,,es,False,,bomberoschillan,0.056697,0.83312,0.110183,NEU
+815347864511647744,2017-01-01 00:04:13+00:00,815347864511647744,"Farmacia: CRUZ VERDE
+Turno: Sabado 31-12-2016
+Hora Inicio: 21:00 hrs
+Hora Término: 08:59 hrs
+Comuna: CHILLAN 
+Dirección: 5 DE ABRIL N° 701",3,0,0,0,,es,False,,bomberoschillan,0.135165,0.78235,0.082486,NEU
+815339039377227776,2016-12-31 23:29:09+00:00,815339039377227776,"Móvil B2 sale a Maipón con 5 de Abril, rescate de canino",2,4,1,0,,es,False,,bomberoschillan,0.067909,0.823458,0.108633,NEU
+815331932372434944,2016-12-31 23:00:55+00:00,815331932372434944,"Está prohibido adquirir y utilizar fuegos artificiales: muchos
+niños resultan quemados por no acatar esta ley, consejo de Bombero Chillán",4,3,0,0,,es,False,,bomberoschillan,0.926079,0.067249,0.006671,NEG
+815328617345544194,2016-12-31 22:47:45+00:00,815328617345544194,"Al preparar alimentos en la parrilla hazlo en lugares despejados ventilados y lejos de materiales combustibles, consejo de Bomberos Chillán",11,6,0,0,,es,False,,bomberoschillan,0.05799,0.796678,0.145332,NEU
+815323198715740160,2016-12-31 22:26:13+00:00,815323198715740160,"Si va a beber, no conduzca. Use siempre el cinturón de seguridad, en asientos delanteros y traseros es un consejo de Bomberos Chillán",17,3,0,0,,es,False,,bomberoschillan,0.183436,0.708547,0.108017,NEU
+815269955432316934,2016-12-31 18:54:39+00:00,815269955432316934,"Móvil B6 camino a Huape km 4, fuego en rastrojo de rápido avance",6,2,0,0,,es,False,,bomberoschillan,0.159644,0.68153,0.158826,NEU
+815269012493963265,2016-12-31 18:50:54+00:00,815269012493963265,"Preinforme camino a Huape km 4, fuego en rastrojo de rápido avance, se trabaja",5,4,0,0,,es,False,,bomberoschillan,0.129421,0.746877,0.123702,NEU
+815265862571716610,2016-12-31 18:38:23+00:00,815265862571716610,"Móvil B5 sale camino a Huape km 4, fuego en pastizal",4,1,0,0,,es,False,,bomberoschillan,0.195714,0.676997,0.127289,NEU
+814924672508764160,2016-12-30 20:02:37+00:00,814924672508764160,"Móvil B5 sale camino a Huape, fuego en pastizal",5,2,0,1,,es,False,,bomberoschillan,0.204562,0.67797,0.117468,NEU
+814841560990883840,2016-12-30 14:32:21+00:00,814841560990883840,"Móvil B6 sale a avda O'Higgins 1541, olor a quemado en Hogar de Menores",3,4,0,0,,es,False,,bomberoschillan,0.33128,0.598603,0.070117,NEU
+814578730685333506,2016-12-29 21:07:58+00:00,814578730685333506,"Móvil B6 sale camino a San Bernardo, fuego en pastizal, matorral con peligro a casa habitación",2,2,0,0,,es,False,,bomberoschillan,0.162093,0.744516,0.093391,NEU
+814577567504146433,2016-12-29 21:03:20+00:00,814577567504146433,"Preinforme camino a San Bernardo, fuego en pastizal, matorral con peligro a casa habitación, se trabaja",1,0,0,0,,es,False,,bomberoschillan,0.222126,0.709381,0.068492,NEU
+814575931423649793,2016-12-29 20:56:50+00:00,814575931423649793,"Móvil Bx3 sale camino a San Bernardo, fuego en pastizal",0,0,0,0,,es,False,,bomberoschillan,0.149509,0.733037,0.117454,NEU
+814554531031814144,2016-12-29 19:31:48+00:00,814554531031814144,"Preinforme en Bomberos Chillán sale a avda Ecuador con O'Higgins, colisión lateral  2 vehículos menores 1 adulto 1 pediátrico lesionados",2,0,0,0,,es,False,,bomberoschillan,0.461373,0.485857,0.052769,NEU
+814553124409147392,2016-12-29 19:26:13+00:00,814553124409147392,"Móvil R4 sale a avda Ecuador con O'Higgins, colisión 2 vehículos menores 1 persona lesionada",3,1,0,0,,es,False,,bomberoschillan,0.315491,0.596389,0.08812,NEU
+814528566331408384,2016-12-29 17:48:38+00:00,814528566331408384,"Preinforme en Villa Nevados de Shangrila con Panificadores, fuego en pastizal de gran extensión, se trabaja",2,1,0,1,,es,False,,bomberoschillan,0.162939,0.751431,0.085631,NEU
+814527202893107202,2016-12-29 17:43:13+00:00,814527202893107202,"Móvil B5 sale a km 14 camino a Pinto, fuego en pastizal con peligro",2,0,0,0,,es,False,,bomberoschillan,0.179548,0.69944,0.121012,NEU
+814526551266066432,2016-12-29 17:40:37+00:00,814526551266066432,"Móvil Bx3 sale a Villa Nevados de Shangrila con Panificadores, fuego en pastizal",3,0,0,0,,es,False,,bomberoschillan,0.180938,0.736827,0.082235,NEU
+814492051668692996,2016-12-29 15:23:32+00:00,814492051668692996,"Establezca un sistema de seguridad preventiva grupal con sus vecinos (silbatos, linternas, teléfonos u otros) un consejo de Bomberos Chillán",4,7,0,0,,es,False,,bomberoschillan,0.054026,0.874172,0.071801,NEU
+814244594120609792,2016-12-28 23:00:13+00:00,814244594120609792,"Móvil B3 y Bx3 salen a 18 de Septiembre con Gamero, SIMULACRO",6,2,0,0,,es,False,,bomberoschillan,0.049789,0.861687,0.088524,NEU
+814156591935197184,2016-12-28 17:10:32+00:00,814156591935197184,"RT @vamoschillan: Recién colisión en calle Republica , Sector Santa Elvira #Chillán https://t.co/uBEAmbgmpI",2,1,0,0,https://twitter.com/i/web/status/814150926487486465,es,False,,bomberoschillan,0.346566,0.526131,0.127303,NEU
+813924580985278464,2016-12-28 01:48:36+00:00,813924580985278464,"Preinforme en Villa Eduardo Frei calle 25 de Septiembre, fuego en pastizal de mediana extensión en sitio eriazo, se trabaja",2,4,1,0,,es,False,,bomberoschillan,0.227544,0.684351,0.088104,NEU
+813919847788773376,2016-12-28 01:29:48+00:00,813919847788773376,"Móvil B5 sale a Villa Eduardo Frei calle 25 de Septiembre, fuego en pastizal",3,0,0,0,,es,False,,bomberoschillan,0.178214,0.709484,0.112302,NEU
+813534929350983680,2016-12-27 00:00:16+00:00,813534929350983680,"Farmacia: CRUZ VERDE
+Turno: Lunes 26-12-2016
+Hora Inicio: 21:00 hrs
+Hora Término: 08:59 hrs
+Comuna: CHILLAN
+Dirección: AVDA ECUADOR Nº 599",0,0,0,0,,es,False,,bomberoschillan,0.130652,0.796217,0.073131,NEU
+813522125181124608,2016-12-26 23:09:23+00:00,813522125181124608,"Preinforme en Juan Martínez de Rosas con Humberto Rodríguez en Chillán Viejo, fuego en pastizal de mediana extensión, se trabaja",2,0,0,0,,es,False,,bomberoschillan,0.200478,0.715711,0.08381,NEU
+813519401827893248,2016-12-26 22:58:34+00:00,813519401827893248,"Móvil B5 sale a Juan Martínez de Rosas con Humberto Rodríguez en Chillán Viejo, fuego en pastizal",1,0,0,0,,es,False,,bomberoschillan,0.18073,0.697007,0.122263,NEU
+813484437145092098,2016-12-26 20:39:38+00:00,813484437145092098,"Preinforme camino a San Bernardo frente a Villa Los Dominicos, fuego en pastizal sin peligro, se trabaja",3,1,0,0,,es,False,,bomberoschillan,0.175244,0.731677,0.09308,NEU
+813482062208495616,2016-12-26 20:30:12+00:00,813482062208495616,"Móvil B1 sale camino a San Bernardo frente a Villa Los Dominicos, fuego en pastizal",3,1,0,0,,es,False,,bomberoschillan,0.172749,0.714009,0.113243,NEU
+813476256868106241,2016-12-26 20:07:07+00:00,813476256868106241,"Móvil B4 avda Collín con Arauco, fuego en vehículo menor",3,0,0,0,,es,False,,bomberoschillan,0.121219,0.748954,0.129827,NEU
+813438480357457921,2016-12-26 17:37:01+00:00,813438480357457921,"No adquirir juguetes que contengan partes pequeñas que podrían causar asfixia, sobre todo si son para niños de 0 y 6 años. Bomberos Chillán",5,8,0,0,,es,False,,bomberoschillan,0.634203,0.334548,0.031249,NEG
+813414354909626368,2016-12-26 16:01:09+00:00,813414354909626368,RT @sebapaulo: Precaución peatones y ciclistas Rosaura acuña con avenida O'Higgins @InfoNuble @bomberoschillan https://t.co/bzMKvNDSlX,15,0,0,0,https://twitter.com/sebapaulo/status/813414220947656708/photo/1,es,False,,bomberoschillan,0.237364,0.62381,0.138827,NEU
+813350387294105601,2016-12-26 11:46:58+00:00,813350387294105601,"Preinforme en Los Volcanes 2 Los Andes 802  Jardín El Buen Pastor, fuga de gas de cilindro de 45K, se trabaja",5,1,0,0,,es,False,,bomberoschillan,0.166906,0.748195,0.084899,NEU
+813345626431877121,2016-12-26 11:28:03+00:00,813345626431877121,"Móvil B1 sale a Los Volcanes 2 Los Andes 802  Jardín El Buen Pastor, fuga de gas en Jardín",3,0,0,0,,es,False,,bomberoschillan,0.267975,0.63894,0.093085,NEU
+813203538079846400,2016-12-26 02:03:26+00:00,813203538079846400,"Móvil B3 sale a Departamentos Diego de Almagro 316, abrir departamento",4,2,1,0,,pt,False,,bomberoschillan,0.057898,0.843094,0.099009,NEU
+813131807877173248,2016-12-25 21:18:24+00:00,813131807877173248,"Preinforme Ruta 5 Sur Enlace Pablo Neruda, colisión 2 vehículos menores a posterior segunda colisión con atropello de chofer",8,5,0,0,,es,False,,bomberoschillan,0.296237,0.617808,0.085956,NEU
+813127382819291136,2016-12-25 21:00:49+00:00,813127382819291136,"Móvil R4 sale a Ruta 5 Sur Enlace Pablo Neruda, colisión 2 vehículos menores",5,4,0,0,,es,False,,bomberoschillan,0.199563,0.686015,0.114422,NEU
+813073635304935424,2016-12-25 17:27:15+00:00,813073635304935424,RT @mktgmanagement: #earthquake en el sur de #Chile #Chiloé  En #Concepción lluvia torrencial🌧 y en las termas de #Chillan nevando ❄☃Minuto…,132,0,0,0,,es,False,,bomberoschillan,0.367558,0.588463,0.043979,NEU
+813056491183816704,2016-12-25 16:19:08+00:00,813056491183816704,"Farmacia: SALCOBRAND
+Turno: Domingo  25-12-2016
+Comuna: CHILLAN
+Dirección: EL ROBLE N°699",1,0,0,0,,es,False,,bomberoschillan,0.138925,0.799314,0.061761,NEU
+813044820335886336,2016-12-25 15:32:45+00:00,813044820335886336,"Queule 13:04 
+Talcahuano 13:07 
+Coronel 13:14 
+Isla Quiriquina 13:19 
+Pto Montt 13:38 
+Castro 14:00 
+Pto Chacabuco 16:17",8,1,0,2,,es,False,,bomberoschillan,0.107393,0.783715,0.108892,NEU
+813044699607035904,2016-12-25 15:32:16+00:00,813044699607035904,"Hora estimada del arribo de las olas en los sgtes sectores:
+Melinka12:21 
+Bahia Mansa 12:35 
+Lebu 12:46 
+Ancud 12:48 
+Corral 12:50",14,1,1,0,,es,False,,bomberoschillan,0.074366,0.826636,0.098998,NEU
+813042822098092033,2016-12-25 15:24:49+00:00,813042822098092033,"Bomberos Coelemu concurre a zonas costeras de la comuna, evacuación preventiva por alerta de Tsunami #ChillanOnLine",17,8,0,0,,es,False,,bomberoschillan,0.190888,0.695268,0.113845,NEU
+813035451472814081,2016-12-25 14:55:31+00:00,813035451472814081,"Por alerta de Tsunami en regiones de Biobío, Araucanía, Los Ríos y Aysén se reforzarán servicios preventivos en sectores costeros.",26,7,0,0,,es,False,,bomberoschillan,0.128112,0.729196,0.142692,NEU
+813035366123012096,2016-12-25 14:55:11+00:00,813035366123012096,El Servicio Hidrográfico y Oceanográfico de Chile establece alerta de Tsunami. Evacúan regiones costeras.,17,5,0,0,,es,False,,bomberoschillan,0.392214,0.566366,0.041419,NEU
+813035229598384128,2016-12-25 14:54:38+00:00,813035229598384128,"Según el Centro Sismológico Nacional la magnitud del sismo fue 7,6 Richter, 67 Kms al Noroeste de Melinka",14,3,1,0,,es,False,,bomberoschillan,0.194771,0.699802,0.105427,NEU
+812864072437866498,2016-12-25 03:34:31+00:00,812864072437866498,"Preinforme camino a San Bernardo con Callejón San Gabriel, fuego en pastizal de mediana extensión, se trabaja",3,0,0,0,,es,False,,bomberoschillan,0.193504,0.718344,0.088152,NEU
+812862491285929984,2016-12-25 03:28:14+00:00,812862491285929984,"Bomberos Chillán sale camino a San Bernardo con Callejón San Gabriel, fuego en pastizal",2,3,0,0,,es,False,,bomberoschillan,0.290285,0.603563,0.106153,NEU
+812831826293227520,2016-12-25 01:26:23+00:00,812831826293227520,"Que la Navidad llene vuestros días de alegría y llevar esa felicidad a nuestras vidas y la de los que amamos, el deseo de Bomberos Chillán https://t.co/RzwFKsb5ju",19,67,7,0,https://twitter.com/bomberoschillan/status/812831826293227520/video/1,es,False,,bomberoschillan,0.006442,0.062928,0.930629,POS
+812807244517703681,2016-12-24 23:48:42+00:00,812807244517703681,"Farmacia: BARRIOSALUD
+Turno: Sábado 24-12-2016
+Hora Inicio: 21:00 hrs
+Hora Término: 08:59 hrs
+Comuna: CHILLAN
+Dirección: ARAUCO N°637",0,0,0,0,,es,False,,bomberoschillan,0.158189,0.771594,0.070217,NEU
+812738012769611781,2016-12-24 19:13:36+00:00,812738012769611781,"Evitar conectar los juegos de luces y artículos de iluminación en un solo toma corriente, pues se sobrecargará el circuito, Bomberos Chillán",1,0,0,0,,es,False,,bomberoschillan,0.756794,0.226093,0.017112,NEG
+812689917658664960,2016-12-24 16:02:30+00:00,812689917658664960,"Si vas ausentarte de tu hogar, no dejes las luces de navidad encendidas siempre deben estar bajo supervisión, consejo de Bomberos Chillán",15,10,0,0,,es,False,,bomberoschillan,0.087587,0.774849,0.137564,NEU
+812588602710458368,2016-12-24 09:19:54+00:00,812588602710458368,"Móvil B5 sale a calle Bombero  Lagos sin número, fuego en pastizal",2,0,0,0,,es,False,,bomberoschillan,0.214264,0.701264,0.084472,NEU
+812412690970841088,2016-12-23 21:40:54+00:00,812412690970841088,"RT @LuzPatr21201795: Arturo Mate salida Jumbo un caos, donde está Carabineros https://t.co/J8h0DjGhdm",2,2,0,1,https://twitter.com/i/web/status/812411144598065152,es,False,,bomberoschillan,0.928765,0.06139,0.009844,NEG
+812397776365617152,2016-12-23 20:41:38+00:00,812397776365617152,"En Navidad, las luces eléctricas decorativas deben tener la etiqueta de una institución certificadora de calidad consejo de Bomberos Chillán",7,4,0,0,,es,False,,bomberoschillan,0.050074,0.685369,0.264557,NEU
+812387230459248640,2016-12-23 19:59:43+00:00,812387230459248640,"Preinforme camino a Yungay km 6,5 Sector Las Lajuelas, fuego en pastizal, matorral y árboles de gran extensión con peligro",6,4,0,0,,es,False,,bomberoschillan,0.381852,0.542876,0.075271,NEU
+812386818733801472,2016-12-23 19:58:05+00:00,812386818733801472,"Móvil B5 y Z6 salen camino a Yungay km 6,5 Sector Las Lajuelas, fuego en pastizal",3,1,0,0,,es,False,,bomberoschillan,0.219284,0.648981,0.131735,NEU
+812381565313568768,2016-12-23 19:37:13+00:00,812381565313568768,"Móvil B6 sale a Sector Las Lajuelas, fuego en pastizal",3,2,0,0,,es,False,,bomberoschillan,0.176366,0.705052,0.118582,NEU
+812359766240534534,2016-12-23 18:10:35+00:00,812359766240534534,"Preinforme en El Roble con Independencia, colisión 2 vehículos menores de baja energía, pacientes se niegan ser atendidos por Bomberos",3,1,0,0,,es,False,,bomberoschillan,0.851925,0.133313,0.014762,NEG
+812357803746725888,2016-12-23 18:02:47+00:00,812357803746725888,"Móvil R4 sale a El Roble con Independencia, colisión 2 vehículos menores",3,1,0,0,,es,False,,bomberoschillan,0.205248,0.693563,0.101189,NEU
+812194849055264768,2016-12-23 07:15:16+00:00,812194849055264768,"Preinforme camino a Pinto frente a Costa Cuervo, choque de vehículo con reja de casa habitación alta liberación de energía 1 lesionado",0,0,1,0,,es,False,,bomberoschillan,0.448684,0.48926,0.062055,NEU
+812192146346348544,2016-12-23 07:04:32+00:00,812192146346348544,"Móvil R1 sale camino a Pinto frente a Costa Cuervo, choque de vehículo con casa 2 lesionados",6,2,0,1,,es,False,,bomberoschillan,0.328783,0.570429,0.100788,NEU
+812117185187422208,2016-12-23 02:06:40+00:00,812117185187422208,"Farmacia: SANTOS
+Turno: Jueves 22-12-2016
+Hora Inicio: 21:00 hrs
+Hora Término: 08:59 hrs
+Comuna: CHILLAN
+Dirección: 5 DE ABRIL N° 775",2,0,0,0,,es,False,,bomberoschillan,0.129397,0.784543,0.08606,NEU
+812062976073170946,2016-12-22 22:31:15+00:00,812062976073170946,"Preinforme en Purén con Sargento Aldea, colisión lateral 2 vehículos menores 6 personas involucradas",7,0,0,0,,es,False,,bomberoschillan,0.207074,0.691897,0.101028,NEU
+812061490551332868,2016-12-22 22:25:21+00:00,812061490551332868,"Móvil R4 sale a Purén con Sargento Aldea, colisión 2 vehículos menores",2,0,0,0,,es,False,,bomberoschillan,0.180285,0.722409,0.097306,NEU
+811937404345024512,2016-12-22 14:12:16+00:00,811937404345024512,"En Navidad, evitar utilizar gran cantidad de artefactos conectados a un mismo enchufe, es un consejo de Bomberos Chillán.",14,7,0,1,,es,False,,bomberoschillan,0.085173,0.783993,0.130834,NEU
+811723144515948545,2016-12-22 00:00:53+00:00,811723144515948545,"Farmacia: SALCOBRAND
+Turno: Miércoles 21-12-2016
+Hora Inicio: 21:00 hrs
+Hora Término: 08:59 hrs
+Comuna: CHILLAN
+Dirección: FCO RAMÍREZ Nº 1",5,1,0,0,,es,False,,bomberoschillan,0.175363,0.761678,0.062958,NEU
+811695075914878976,2016-12-21 22:09:21+00:00,811695075914878976,"Bomberos Chillán sale camino a Yungay Sector Llollinco ingreso camino al vertedero, fuego en casa habitación",3,0,0,0,,es,False,,bomberoschillan,0.284026,0.604481,0.111493,NEU
+811610995730874369,2016-12-21 16:35:15+00:00,811610995730874369,Las decoraciones eléctricas se desenchufan antes de que todo el mundo se vaya de la casa o al acostarse es un consejo de Bomberos Chillán,20,12,0,1,,es,False,,bomberoschillan,0.173122,0.795857,0.031022,NEU
+811583524738334720,2016-12-21 14:46:05+00:00,811583524738334720,Preinforme en camino Km7 camino a Huape Fundo San Antonio fuego en pastizal con peligro a galpón con fardos,6,1,0,1,,es,False,,bomberoschillan,0.374942,0.560803,0.064255,NEU
+811582989637451776,2016-12-21 14:43:57+00:00,811582989637451776,Móvil B4 y B6 salen camino Km7 camino a Huape Fundo San Antonio fuego en Galpón,4,0,0,1,,es,False,,bomberoschillan,0.167365,0.716236,0.116399,NEU
+811390364414251009,2016-12-21 01:58:32+00:00,811390364414251009,"Farmacia: DR. SIMI
+Turno: Martes 20-12-2016
+Hora Inicio: 21:00 hrs
+Hora Término: 08:59 hrs
+Comuna: CHILLAN
+Dirección: MAIPON 723",2,0,0,0,,es,False,,bomberoschillan,0.195687,0.744663,0.05965,NEU
+811300346500935680,2016-12-20 20:00:50+00:00,811300346500935680,Alarma de incendio camino a San Bernardo fuego en pastizal con peligro,20,4,1,0,,es,False,,bomberoschillan,0.287273,0.627056,0.085671,NEU
+811296789156528128,2016-12-20 19:46:42+00:00,811296789156528128,"Preinforme en Sector Caserío Linares Rucapequén, fuego en pastizal y matorrales de gran extensión con peligro",12,1,0,1,,es,False,,bomberoschillan,0.323974,0.598111,0.077915,NEU
+811290565639815168,2016-12-20 19:21:58+00:00,811290565639815168,"Móvil B5 sale a Sector Caserío Linares Rucapequén, fuego en pastizal",4,3,0,0,,es,False,,bomberoschillan,0.195154,0.689869,0.114977,NEU
+811207600037658629,2016-12-20 13:52:18+00:00,811207600037658629,"Precaucion camino a Huape a la altura del Molino Autonell, corte de una vía por mal estado de la carretera https://t.co/1KxSfca1OP",10,6,3,1,https://twitter.com/bomberoschillan/status/811207600037658629/photo/1,es,False,,bomberoschillan,0.578944,0.348615,0.072441,NEG
+811206713252712448,2016-12-20 13:48:46+00:00,811206713252712448,"En Navidad antes de decorar su hogar, revisar que su instalación eléctrica esté en excelentes condiciones, consejo de Bomberos Chillán",9,11,1,0,,es,False,,bomberoschillan,0.024034,0.565403,0.410564,NEU
+810919634526498816,2016-12-19 18:48:01+00:00,810919634526498816,"Móvil Bx3 sale a camino a San Bernardo Sector Villa Cordillera, fuego en pastizal",4,0,0,0,,es,False,,bomberoschillan,0.188551,0.688963,0.122486,NEU
+810900121697271808,2016-12-19 17:30:29+00:00,810900121697271808,"Preinforme camino a San Bernardo Villa Verde Parque, fuego en pastizal sin peligro, se trabaja",4,1,1,0,,es,False,,bomberoschillan,0.111203,0.772672,0.116126,NEU
+810898007126380544,2016-12-19 17:22:05+00:00,810898007126380544,"Móvil Bx3 sale a camino a San Bernardo Villa Verde Parque, fuego en pastizal",3,1,0,0,,es,False,,bomberoschillan,0.146793,0.727715,0.125493,NEU
+810659164309618690,2016-12-19 01:33:00+00:00,810659164309618690,"Móvil Bx3 sale a pobl El Tejar psje Norte 370, fuego en poste del alumbrado público",9,1,0,0,,es,False,,bomberoschillan,0.202662,0.69941,0.097928,NEU
+810656904083107840,2016-12-19 01:24:01+00:00,810656904083107840,"Móvil Bx3 sale a Libertad Oriente con Mario Vergara, fuego en pastizal",11,3,0,0,,es,False,,bomberoschillan,0.145784,0.745241,0.108975,NEU
+810619951866413056,2016-12-18 22:57:11+00:00,810619951866413056,"Móvil B3 sale a Diego de Almagro 316 Departamento 832, abrir departamento",2,0,0,0,,pt,False,,bomberoschillan,0.047218,0.860072,0.092709,NEU
+810592117793947651,2016-12-18 21:06:35+00:00,810592117793947651,Preinforme Luis Araneda con Domingo Ortíz de Rosas Chillán Viejo fuego en pastizal y matorral mediana extensión de rápido avance con peligro,7,2,0,0,,es,False,,bomberoschillan,0.310406,0.626733,0.062861,NEU
+810589539999760384,2016-12-18 20:56:21+00:00,810589539999760384,"Móvil Bx3 sale a Luis Araneda con Domingo Ortíz de Rosas Chillán Viejo, fuego en pastizal",1,3,0,0,,es,False,,bomberoschillan,0.18956,0.708471,0.10197,NEU
+810563478373199872,2016-12-18 19:12:47+00:00,810563478373199872,Segundo Lugar obtuvo la Quinta Compañía en Competencia Inter-Compañías de Escalas Regionales Capitán Mártir Manuel Vilches Vásquez https://t.co/dpyyHoGinA,7,8,1,0,https://twitter.com/bomberoschillan/status/810563478373199872/photo/1,es,False,,bomberoschillan,0.070224,0.578322,0.351454,NEU
+810558322835394561,2016-12-18 18:52:18+00:00,810558322835394561,Bomberos Chillán saluda a la Segunda Compañía Bomba Carlos Collins en su Aniversario 135 https://t.co/XGdXXOmukh,9,13,1,0,https://twitter.com/bomberoschillan/status/810558322835394561/photo/1,es,False,,bomberoschillan,0.130862,0.44431,0.424828,NEU
+810501715195793409,2016-12-18 15:07:21+00:00,810501715195793409,Capacitación teórica y práctica con Conaf en Base Los Alomos realizan Bomberos de la Primera y Tercera Compañía de Chillán https://t.co/XvuXx064tX,11,6,1,0,https://twitter.com/bomberoschillan/status/810501715195793409/photo/1,es,False,,bomberoschillan,0.090421,0.64965,0.259929,NEU
+810407053156028417,2016-12-18 08:51:12+00:00,810407053156028417,"Preinforme km 2 camino a Pinto, colisión múltiple de 3 vehículos menores uno dado a la fuga 5 involucrados",1,2,0,1,,es,False,,bomberoschillan,0.345751,0.582278,0.071971,NEU
+810385457028747264,2016-12-18 07:25:23+00:00,810385457028747264,"Preinforme en avda Los Puelches con Covadonga, atropello de vehículo menor 1 persona lesionada 3 involucrados",2,5,1,0,,es,False,,bomberoschillan,0.632314,0.314675,0.05301,NEG
+810383708872212480,2016-12-18 07:18:27+00:00,810383708872212480,"Móvil R1 sale a avda Los Puelches con Covadonga, colisión 2 vehículos menores",9,3,0,1,,es,False,,bomberoschillan,0.277049,0.639721,0.08323,NEU
+810178448337604608,2016-12-17 17:42:49+00:00,810178448337604608,"RT @FirePhotoChile: F33 se encuentra en competencia de Inter Compañías Escalas CB Concepción ""Capitán Martir Manuel Vilches Vasquez"" https:…",4,0,0,0,,es,False,,bomberoschillan,0.181543,0.783065,0.035392,NEU
+809960929400160256,2016-12-17 03:18:28+00:00,809960929400160256,"Preinforme camino a Cato Sector Parceleros Norte, colisión 2 vehículos menores posterior choque con poste 2 lesionados",3,0,0,0,,es,False,,bomberoschillan,0.303324,0.552136,0.14454,NEU
+809957329332502528,2016-12-17 03:04:10+00:00,809957329332502528,"Móvil R1 sale camino a Cato Parceleros Norte, colisión de vehículo menor con camioneta",7,0,0,0,,es,False,,bomberoschillan,0.22389,0.6352,0.14091,NEU
+809870888581627904,2016-12-16 21:20:41+00:00,809870888581627904,"Móvil B6 sale a Villa Los Nevados de Shangrila con Cerro León, fuego en pastizal, zarzamora con peligro de propagación",5,0,0,0,,es,False,,bomberoschillan,0.158618,0.751843,0.089539,NEU
+809870593218723841,2016-12-16 21:19:30+00:00,809870593218723841,"Preinforme en Villa Los Nevados de Shangrila con Cerro León, fuego en pastizal, zarzamora con peligro de propagación",3,0,0,0,,es,False,,bomberoschillan,0.271517,0.676025,0.052458,NEU
+809868012237033472,2016-12-16 21:09:15+00:00,809868012237033472,"Móvil Bx3 sale a Villa Los Nevados de Shangrila con Cerro León, fuego en pastizal",3,2,0,0,,es,False,,bomberoschillan,0.124676,0.7779,0.097424,NEU
+809866344317513728,2016-12-16 21:02:37+00:00,809866344317513728,Resultado de las Elecciones de Oficiales Generales del Cuerpo de Bomberos de Chillán para el periodo 2017 - 2018 https://t.co/ouNOLPTdmu,0,5,0,0,https://twitter.com/bomberoschillan/status/809866344317513728/photo/1,es,False,,bomberoschillan,0.17356,0.724118,0.102322,NEU
+809773131023994880,2016-12-16 14:52:13+00:00,809773131023994880,"Preinforme en Departamentos Enrique Knotte 864 Block E, adulto mayor encerrado en departamento, se trabaja",0,1,0,0,,es,False,,bomberoschillan,0.113684,0.844532,0.041784,NEU
+809770672671092736,2016-12-16 14:42:27+00:00,809770672671092736,"Móvil B4 sale a Departamentos Enrique Knotte 864 Block E, abrir departamento",1,1,0,0,,pt,False,,bomberoschillan,0.040653,0.88961,0.069736,NEU
+809579546492149760,2016-12-16 02:02:59+00:00,809579546492149760,En estos momentos se realizan los escrutiños de Oficiales Generales de Bomberos Chillán período 2017 -2018 https://t.co/k9ELRQghSU,5,9,1,0,https://twitter.com/bomberoschillan/status/809579546492149760/photo/1,es,False,,bomberoschillan,0.147732,0.735851,0.116418,NEU
+809512846644154368,2016-12-15 21:37:57+00:00,809512846644154368,"Móvil B6 sale camino a Yungay detrás del Santuario Schoenstatt, fuego en pastizal y matorral",7,0,1,0,,es,False,,bomberoschillan,0.272432,0.624228,0.10334,NEU
+809240353966587904,2016-12-15 03:35:10+00:00,809240353966587904,"Móvil B5 sale a Vega de Saldias con Independencia, fuego en pastizal",6,4,0,0,,es,False,,bomberoschillan,0.145344,0.739448,0.115207,NEU
+809208190491574272,2016-12-15 01:27:21+00:00,809208190491574272,"Móvil Bx3 sale a Vicente Méndez Shell Asturias, rebrote de fuego en pastizal",4,1,0,0,,es,False,,bomberoschillan,0.240312,0.688182,0.071506,NEU
+809173629477015552,2016-12-14 23:10:01+00:00,809173629477015552,"Móvil B3 sale camino a San Bernardo Villa Los Dominicos, fuego en pastizal",5,0,0,0,,es,False,,bomberoschillan,0.162734,0.723787,0.113479,NEU
+809172381793189891,2016-12-14 23:05:04+00:00,809172381793189891,"Móvil Bx3 sale camino a San Bernardo Villa Los Dominicos, fuego en pastizal",3,1,0,0,,es,False,,bomberoschillan,0.155929,0.731892,0.112179,NEU
+809143890800443392,2016-12-14 21:11:51+00:00,809143890800443392,"Móvil R1 sale a Vicente Méndez antes de llegar a Sheik Asturias, colisión por alcance 2 personas lesionadas",10,4,0,1,,es,False,,bomberoschillan,0.361509,0.539674,0.098818,NEU
+809138304767631361,2016-12-14 20:49:39+00:00,809138304767631361,Alarma de Incendio en km 1 Ruta del Itata fuego en rastrojo de trigo de rápido avance,11,2,3,0,,es,False,,bomberoschillan,0.212543,0.685984,0.101473,NEU
+809135080882966532,2016-12-14 20:36:50+00:00,809135080882966532,"Móvil Bx3 sale a Vicente Mémndez Shell Asturias, fuego en pastizal, matorral y arbustos con peligro",8,1,0,0,,es,False,,bomberoschillan,0.225503,0.696305,0.078191,NEU
+809133265797910528,2016-12-14 20:29:38+00:00,809133265797910528,"Móvil B6 sale a km 1 Ruta del Itata, fuego en pastizal",5,1,0,0,,es,False,,bomberoschillan,0.149009,0.714526,0.136465,NEU
+809132876331708416,2016-12-14 20:28:05+00:00,809132876331708416,"Preinforme en Vicente Méndez Shell Asturias, fuego en pastizal, matorral con peligro, se trabaja",3,0,0,0,,es,False,,bomberoschillan,0.294923,0.647873,0.057203,NEU
+809130347971674114,2016-12-14 20:18:02+00:00,809130347971674114,"Móvil B5 sale a Vicente Méndez Shell Asturias, fuego en pastizal",5,0,1,0,,es,False,,bomberoschillan,0.164892,0.738112,0.096996,NEU
+809127680419463168,2016-12-14 20:07:26+00:00,809127680419463168,"Móvil Bx3 sale a Cerro Santa Lucía con Cerro Aracar, fuego en pastizal",3,0,0,0,,es,False,,bomberoschillan,0.160436,0.724028,0.115536,NEU
+809126514793058305,2016-12-14 20:02:48+00:00,809126514793058305,"Preinforme en Domingo Ortiz de Rosas detrás de Colegio Darío Salas, fuego en pastizal y árboles de mediana extensión con peligro, se trabaja",6,0,0,0,,es,False,,bomberoschillan,0.374058,0.56398,0.061962,NEU
+809124776065302528,2016-12-14 19:55:54+00:00,809124776065302528,"Móvil B6 sale a Domingo Ortiz de Rosas detrás de Colegio Darío Salas, fuego en pastizal",5,2,0,0,,es,False,,bomberoschillan,0.203366,0.702996,0.093638,NEU
+809105265769512960,2016-12-14 18:38:22+00:00,809105265769512960,"Móvil Bx3 sale a Villa Nuevo Amanecer Cerro Martín con Cerro Lorenzo, fuego en pastizal",2,0,0,0,,es,False,,bomberoschillan,0.135455,0.729492,0.135053,NEU
+809036665675202560,2016-12-14 14:05:46+00:00,809036665675202560,Corte de energía eléctrica está afectando el centro de Chillán,21,14,8,0,,es,False,,bomberoschillan,0.928463,0.061709,0.009828,NEG
+808917610163294208,2016-12-14 06:12:41+00:00,808917610163294208,"Preinforme en Villa Cordillera psje 3, fuego en palmera al interior de patio de casa habitación",3,0,0,0,,es,False,,bomberoschillan,0.165418,0.744938,0.089644,NEU
+808916841791967232,2016-12-14 06:09:38+00:00,808916841791967232,"Móvil Bx3 sale a Villa Cordillera psje 3, fuego en palmera #ChillanOnLine",1,0,0,0,,es,False,,bomberoschillan,0.24817,0.648422,0.103408,NEU
+808845761605668865,2016-12-14 01:27:11+00:00,808845761605668865,"Farmacia: CRUZ VERDE
+Turno: Martes 13-12-2016
+Hora Inicio: 21:00 hrs
+Hora Término: 08:59 hrs
+Comuna: CHILLAN
+Dirección: 5 DE ABRIL N° 701",0,1,0,0,,es,False,,bomberoschillan,0.137907,0.787359,0.074734,NEU
+808703569327169536,2016-12-13 16:02:10+00:00,808703569327169536,"Preinforme en Tehualda 228 Villa Los Copihues, persona en techo de casa habitación, controlado",1,1,0,0,,es,False,,bomberoschillan,0.120323,0.795947,0.08373,NEU
+808700121991041024,2016-12-13 15:48:28+00:00,808700121991041024,"Móvil B4 sale a Tehualda 228 Villa Los Copihues, adulto mayor en techo de casa habitación",2,1,0,0,,es,False,,bomberoschillan,0.15574,0.749049,0.095212,NEU
+808692121632993280,2016-12-13 15:16:41+00:00,808692121632993280,"Móvil Bx3 sale a Lomas de Maipón Luis Araneda con Ruiz de Gamboa, fuego en pastizal y basura con peligro",3,0,0,0,,es,False,,bomberoschillan,0.262031,0.643348,0.094621,NEU
+808689460741341184,2016-12-13 15:06:06+00:00,808689460741341184,"Móvil B2 sale a Lomas de Maipón, fuego en pastizal con peligro a sede comunitaria",5,1,0,0,,es,False,,bomberoschillan,0.188037,0.721454,0.090509,NEU
+808533135398932480,2016-12-13 04:44:55+00:00,808533135398932480,"Ampliación preinforme en Yerbas Buenas 1198, baja presencia de gas metano en baño de casa habitación se realiza ventilación",2,0,0,0,,es,False,,bomberoschillan,0.061142,0.829708,0.10915,NEU
+808531765547724800,2016-12-13 04:39:29+00:00,808531765547724800,"Preinforme en Yerbas Buenas 1198, presencia de gas metano en bajo porcentaje se investiga procedencia",0,2,0,0,,es,False,,bomberoschillan,0.127275,0.826207,0.046518,NEU
+808528976318697472,2016-12-13 04:28:24+00:00,808528976318697472,"Móvil H5 sale a Yerbas Buenas 1198, presencia de gas en el ambiente",4,0,0,0,,es,False,,bomberoschillan,0.078122,0.757547,0.164331,NEU
+808512724741320704,2016-12-13 03:23:49+00:00,808512724741320704,@cged_sos Personal de CGE en terreno trabajando para identificar la causa del corte y restableciendo los sectores afectados #ChillanOnline,10,3,2,0,,es,False,2798711462.0,bomberoschillan,0.231855,0.65871,0.109435,NEU
+808509129123856384,2016-12-13 03:09:32+00:00,808509129123856384,@cged_sos Corte de luz y bajo voltaje en algunos sectores de Chillán #ChillanOnLine,10,1,5,0,,es,False,2798711462.0,bomberoschillan,0.834179,0.151705,0.014116,NEG
+808443639764488192,2016-12-12 22:49:18+00:00,808443639764488192,"Preinforme en Cocharcas con Sargento Aldea, colisión de taxi colectivo con vehículo particular 1 persona lesionada",7,3,1,0,,es,False,,bomberoschillan,0.52365,0.41829,0.05806,NEG
+808429147123044352,2016-12-12 21:51:43+00:00,808429147123044352,"Preinforme en pobl Zañartu Coquimbo 29, presencia en bajo porcentaje de gas metano, se monitorea la zona",4,1,0,0,,es,False,,bomberoschillan,0.177722,0.705091,0.117187,NEU
+808425788492091393,2016-12-12 21:38:22+00:00,808425788492091393,"Móvil H5 sale a pobl Zañartu Coquimbo 29, presencia de gas en el ambiente",3,1,0,0,,es,False,,bomberoschillan,0.190392,0.68482,0.124787,NEU
+808141955200937984,2016-12-12 02:50:31+00:00,808141955200937984,"Precaución, semáforos  apagados en avda O'Higgins con avda Collín en Chillán",6,0,0,0,,es,False,,bomberoschillan,0.386229,0.532722,0.081049,NEU
+808136646063456257,2016-12-12 02:29:25+00:00,808136646063456257,"Móvil R1 sale camino a Coihueco entrada Villa Emmanuel, colisión de motocicleta con vehículo menor 1 persona lesionada",10,2,0,0,,es,False,,bomberoschillan,0.359942,0.520215,0.119843,NEU
+807981777428025344,2016-12-11 16:14:01+00:00,807981777428025344,"Móvil Bx3 sale a Cancha del Ferro Sector Ultraestación, fuego en pastizal",4,2,0,1,,es,False,,bomberoschillan,0.238758,0.674612,0.08663,NEU
+807797946968403968,2016-12-11 04:03:33+00:00,807797946968403968,"Preinforme en camino a Boyén 3 km al interior, desbarrancamiento de vehículo menor a orilla de camino, sin lesionados",12,11,0,0,,es,False,,bomberoschillan,0.180694,0.683813,0.135493,NEU
+807794875957706752,2016-12-11 03:51:21+00:00,807794875957706752,"Móvil R1 sale a camino a Boyén 3 km al interior, volcamiento de vehículo menor 1 persona atrapada",22,8,2,0,,es,False,,bomberoschillan,0.247739,0.630389,0.121872,NEU
+807782941803876352,2016-12-11 03:03:55+00:00,807782941803876352,"Farmacia: SALCOBRAND
+Turno: Sábado 10-12-2016
+Hora Inicio: 21:00 hrs
+Hora Término: 08:59 hrs
+Comuna: CHILLAN
+Dirección: EL ROBLE N°699",3,0,0,0,,es,False,,bomberoschillan,0.175348,0.761079,0.063572,NEU
+807775387073777664,2016-12-11 02:33:54+00:00,807775387073777664,"En avda Argentina con Libertad en Chillán, semáforos no están funcionando... precaución",4,2,1,0,,es,False,,bomberoschillan,0.294523,0.639027,0.06645,NEU
+807596770620542976,2016-12-10 14:44:09+00:00,807596770620542976,"Preinforme en Ruta 5 Sur km 406 peaje Chillán Viejo, volcamiento de camioneta alta liberación de energía 1 persona lesionada",12,3,0,0,,es,False,,bomberoschillan,0.44685,0.47991,0.07324,NEU
+807594518228910081,2016-12-10 14:35:12+00:00,807594518228910081,"Móvil R4 sale a Ruta 5 Sur km 406 peaje Chillán Viejo, volcamiento de vehículo menor 2 personas atrapadas",11,0,0,0,,es,False,,bomberoschillan,0.272896,0.606153,0.120951,NEU
+807399871015714816,2016-12-10 01:41:44+00:00,807399871015714816,"Farmacia: CRUZ VERDE
+Turno: Viernes 09-12-2016
+Hora Inicio: 21:00 hrs
+Hora Término: 08:59 hrs
+Comuna: CHILLAN
+Dirección: 5 DE ABRIL N°731",0,0,0,0,,es,False,,bomberoschillan,0.147715,0.775168,0.077117,NEU
+807323972455038981,2016-12-09 20:40:09+00:00,807323972455038981,"Preinforme en Sector Los Villoutas Quinchamali, fuego en mediagua FALSA ALARMA",3,2,0,1,,es,False,,bomberoschillan,0.288163,0.640999,0.070838,NEU
+807321652556079104,2016-12-09 20:30:55+00:00,807321652556079104,"Móvil B7 sale a Sector Los Villoutas, fuego en mediagua",2,1,0,0,,es,False,,bomberoschillan,0.194788,0.692172,0.11304,NEU
+807249277227532290,2016-12-09 15:43:20+00:00,807249277227532290,"Móvil B3 y B4 sale a pobl Irene Frei psje 18, fuego en casa habitación",12,3,1,0,,es,False,,bomberoschillan,0.132912,0.771719,0.095369,NEU
+807248251208531968,2016-12-09 15:39:15+00:00,807248251208531968,"Preinforme en Lomas de Oriente 5 Cerro Maravilla con San Martín, fuego en pastizal y basura con peligro, se trabaja",3,0,0,0,,es,False,,bomberoschillan,0.212126,0.697599,0.090275,NEU
+807245740699484160,2016-12-09 15:29:17+00:00,807245740699484160,"Móvil Bx3 sale a Lomas de Oriente 5 Cerro Maravilla con San Martín, fuego en pastizal",2,1,0,0,,es,False,,bomberoschillan,0.122821,0.729094,0.148085,NEU
+807237041222221824,2016-12-09 14:54:43+00:00,807237041222221824,Empresa Ecobio realiza aporte en radios de comunicación para la Quinta Compañía para su uso en emergencias con materiales peligrosos https://t.co/5LNuwjZaGo,5,7,0,1,https://twitter.com/bomberoschillan/status/807237041222221824/photo/1,es,False,,bomberoschillan,0.133913,0.773397,0.09269,NEU
+807235186689720320,2016-12-09 14:47:20+00:00,807235186689720320,Bomberos Chillán recibió  subvension extraordinaria municipal por 45 millones de pesos y destacó campaña por aporte en el recibo del agua https://t.co/VB3B75KuiT,11,9,0,0,https://twitter.com/bomberoschillan/status/807235186689720320/photo/1,es,False,,bomberoschillan,0.114782,0.483989,0.401228,NEU
+807185192045703171,2016-12-09 11:28:41+00:00,807185192045703171,RT @eduguty: Semáforo pegado en verde calle Collin con Argentina https://t.co/kBUoseRbSt,3,1,1,1,https://twitter.com/eduguty/status/807184961816117248/photo/1,es,False,,bomberoschillan,0.223068,0.701075,0.075857,NEU
+807052206625193984,2016-12-09 02:40:15+00:00,807052206625193984,"Farmacia: CRUZ VERDE
+Turno: Jueves 08-12-2016
+Hora Inicio: 21:00 hrs
+Hora Término: 08:59 hrs
+Comuna: CHILLAN
+Dirección: AVDA. ECUADOR Nº 599",4,3,0,0,,es,False,,bomberoschillan,0.130139,0.796337,0.073524,NEU
+807038741542043649,2016-12-09 01:46:44+00:00,807038741542043649,"Semáforos de avda O'Higgins con Baquedano Cruce Paso de Piedra no están funcionando, precaución #ChillanOnLine",8,1,0,0,,es,False,,bomberoschillan,0.729271,0.237152,0.033577,NEG
+807032819818041344,2016-12-09 01:23:12+00:00,807032819818041344,RT @camibust26: @bomberoschillan trabajando en mi casa https://t.co/VpUef3soIq,1,0,0,0,https://twitter.com/camibust26/status/807032565353873408/photo/1,es,False,,bomberoschillan,0.015652,0.516974,0.467373,NEU
+807031971465588736,2016-12-09 01:19:50+00:00,807031971465588736,"Ampliación en Villa Los Leones psje 3 casa 23, fuga de gas de regulador en segunda etapa, Intergas trabajando en el lugar",5,3,1,0,,es,False,,bomberoschillan,0.18415,0.701795,0.114055,NEU
+807030471125307392,2016-12-09 01:13:52+00:00,807030471125307392,"Preinforme en Villa Los Leones psje 3 casa 23, posible fuga de gas natural, Intergas monitoreando el lugar",1,1,1,0,,es,False,,bomberoschillan,0.15625,0.753707,0.090043,NEU
+806999167352655873,2016-12-08 23:09:29+00:00,806999167352655873,"Preinforme en Luis Araneda con Domingo Ortiz de Rosas, fuego en pastizal, matorral y basura sin peligro, se trabaja",1,1,0,0,,es,False,,bomberoschillan,0.218513,0.707862,0.073625,NEU
+806997225142362112,2016-12-08 23:01:46+00:00,806997225142362112,"Móvil B5 sale a Luis Araneda con Domingo Ortiz de Rosas, fuego en pastizal",1,0,0,0,,es,False,,bomberoschillan,0.15846,0.739105,0.102435,NEU
+806725592896786432,2016-12-08 05:02:24+00:00,806725592896786432,"Farmacia: SANTOS
+Turno: Miércoles 07-12-2016
+Hora Inicio: 21:00 hrs
+Hora Término: 08:59 hrs
+Comuna: CHILLAN
+Dirección: ARGENTINA Nº 440",2,1,0,0,,es,False,,bomberoschillan,0.122619,0.796575,0.080806,NEU
+806645422068563968,2016-12-07 23:43:50+00:00,806645422068563968,"RT @bomberos_bulnes: Hoy hemos sufre robo de 2 herramientas de unidad de Rescate de el movil R1, una tronzadora eléctrica y una motosierra…",155,0,0,0,,es,False,,bomberoschillan,0.642248,0.323317,0.034435,NEG
+806597858040446976,2016-12-07 20:34:49+00:00,806597858040446976,"Móvil R4 sale a avda O'Higgins con Constitución, colisión de taxi colectivo con vehículo particular",9,1,1,0,,es,False,,bomberoschillan,0.251972,0.64073,0.107298,NEU
+806541215357341696,2016-12-07 16:49:45+00:00,806541215357341696,"Preinforme en Independencia con El Roble, colisión de vehículo menor con furgón 6 involucrados 2 lesionados",4,3,1,0,,es,False,,bomberoschillan,0.486581,0.432359,0.08106,NEG
+806539497747914754,2016-12-07 16:42:55+00:00,806539497747914754,"Móvil R4 sale a Independencia con El Roble, colisión de vehículo menor con furgón personas lesionadas en el lugar",1,2,0,1,,es,False,,bomberoschillan,0.282484,0.616287,0.10123,NEU
+806466030251999232,2016-12-07 11:50:59+00:00,806466030251999232,"Preinforme en calle Atenas con Rosauro Acuña, persona en estado etílico al interior de vehículo  #ChillanOnLine",2,5,0,1,,es,False,,bomberoschillan,0.571566,0.386884,0.041551,NEG
+806463211704815616,2016-12-07 11:39:47+00:00,806463211704815616,"Móvil R4 sale a calle Atenas con Rosauro Acuña, abrir vehículo persona con posible PCR",5,0,0,0,,es,False,,bomberoschillan,0.113855,0.828803,0.057342,NEU
+806290365376512001,2016-12-07 00:12:57+00:00,806290365376512001,"Farmacia: BARRIOSALUD
+Turno: Martes 06-12-2016
+Hora Inicio: 21:00 hrs
+Hora Término: 08:59 hrs
+Comuna: CHILLAN
+Dirección: ARAUCO N°637",0,2,0,0,,es,False,,bomberoschillan,0.169024,0.763217,0.067759,NEU
+805816008103653376,2016-12-05 16:48:02+00:00,805816008103653376,"Preinforme en Independencia con El Roble, colisión 2 vehículos menores 3 personas involucradas 1 lesionado",5,1,0,0,,es,False,,bomberoschillan,0.456696,0.480037,0.063267,NEU
+805814883522637824,2016-12-05 16:43:34+00:00,805814883522637824,"Móvil R4 sale a Independencia con El Roble, colisión 2 vehículos menores 3 personas involucradas",4,2,0,0,,es,False,,bomberoschillan,0.17138,0.729788,0.098832,NEU
+805596822655959040,2016-12-05 02:17:04+00:00,805596822655959040,"Farmacia: SANTOS
+Turno: Domingo 04-12-2016
+Hora Inicio: 21:00 hrs
+Hora Término: 08:59 hrs
+Comuna: CHILLAN
+Dirección: 5 DE ABRIL N° 775",1,0,0,0,,es,False,,bomberoschillan,0.132505,0.782888,0.084607,NEU
+805419336257171456,2016-12-04 14:31:48+00:00,805419336257171456,En estos momentos Desfile y Bautizó de los nuevos carros del Cuerpo de Bomberos de Chillán https://t.co/0CCQDONXlj,10,22,4,0,https://twitter.com/bomberoschillan/status/805419336257171456/photo/1,es,False,,bomberoschillan,0.068971,0.580833,0.350196,NEU
+805231531266600960,2016-12-04 02:05:32+00:00,805231531266600960,"Móvil B7 sale a km 15, 5 Ruta a Quinchamali, árbol caído en el camino",10,4,0,1,,es,False,,bomberoschillan,0.175395,0.716825,0.10778,NEU
+805213051473563648,2016-12-04 00:52:06+00:00,805213051473563648,"Mañana domingo 04 de diciembre, desfile con la entrega y bautizo de los nuevos carros de Bomberos Chillán a las 11:00 hrs https://t.co/5e34v9iB1Y",15,26,2,0,https://twitter.com/bomberoschillan/status/805213051473563648/photo/1,es,False,,bomberoschillan,0.049643,0.555058,0.395299,NEU
+805204838925684737,2016-12-04 00:19:28+00:00,805204838925684737,"Farmacia: SALCOBRAND
+Turno: Sábado 03-12-2016
+Hora Inicio: 21:00 hrs
+Hora Término: 08:59 hrs
+Comuna: CHILLAN
+Dirección: FCO RAMÍREZ Nº 1",3,0,0,0,,es,False,,bomberoschillan,0.16995,0.765859,0.064192,NEU
+805203630303363076,2016-12-04 00:14:40+00:00,805203630303363076,"RT @hcastilloch: Semáforos apagados en Ecuador con O""Higgins y también llegando a Brasil, precaución!",3,3,0,0,,es,False,,bomberoschillan,0.38566,0.531978,0.082361,NEU
+804988847151050752,2016-12-03 10:01:11+00:00,804988847151050752,Preinforme en avda Argentina con Libertad colisión de camioneta con vehículo menor 1 persona lesionada,3,2,0,0,,es,False,,bomberoschillan,0.278952,0.641575,0.079473,NEU
+804987809660596224,2016-12-03 09:57:04+00:00,804987809660596224,"Móvil R1  sale a avda Argentina frente a hospital, colisión por alcance 1 persona atrapada",2,0,0,0,,es,False,,bomberoschillan,0.241641,0.674939,0.083419,NEU
+804946270800515072,2016-12-03 07:12:00+00:00,804946270800515072,"Preinforme en Diagonal Las Termas, choque de vehículo menor con barreras 1 persona lesionada",3,2,0,0,,es,False,,bomberoschillan,0.41737,0.49722,0.08541,NEU
+804943878243676160,2016-12-03 07:02:30+00:00,804943878243676160,"Móvil R1 sale a Diagonal Las Termas, choque de vehículo menor con reja 1 persona lesionada",9,1,0,0,,es,False,,bomberoschillan,0.301527,0.611129,0.087344,NEU
+804902582808444928,2016-12-03 04:18:24+00:00,804902582808444928,"Compañías hermanas Primera y Tercera de Chillán, entregando su aporte a la TELETON 24.500-03 https://t.co/fD17W77sIY",13,23,0,2,https://twitter.com/bomberoschillan/status/804902582808444928/photo/1,es,False,,bomberoschillan,0.090694,0.621439,0.287867,NEU
+804898077261910016,2016-12-03 04:00:30+00:00,804898077261910016,"La Pompe France Chillán entregando su aporte a la Teletón 2016 ""El Abrazo de Chile"" https://t.co/nueB0allIJ",9,20,0,1,https://twitter.com/bomberoschillan/status/804898077261910016/photo/1,es,False,,bomberoschillan,0.092861,0.397941,0.509198,POS
+804863721663303680,2016-12-03 01:43:59+00:00,804863721663303680,"Farmacia: DR. SIMI
+Turno: Viernes 02-12-2016
+Hora Inicio: 21:00 hrs
+Hora Término: 08:59 hrs
+Comuna: CHILLAN
+Dirección: MAIPON 723",2,0,0,0,,es,False,,bomberoschillan,0.186259,0.752706,0.061034,NEU
+804836425141288966,2016-12-02 23:55:31+00:00,804836425141288966,RT @GerytaInostroza: @bomberoschillan semáforos apagados en Arturo Prat con Isabel Riquelme..  precaución,3,1,0,0,,es,False,,bomberoschillan,0.403708,0.523425,0.072867,NEU
+804776090946433025,2016-12-02 19:55:46+00:00,804776090946433025,"Móvil B5 sale a pobl Coihueco psje 1, fuego en pastizal de mediana extensión, con peligro",6,2,0,1,,es,False,,bomberoschillan,0.23057,0.664092,0.105338,NEU
+804774105006374912,2016-12-02 19:47:53+00:00,804774105006374912,"Móvil R4 sale a El Roble con 5 de Abril, atropello de femenina",5,2,0,1,,es,False,,bomberoschillan,0.637632,0.314709,0.047659,NEG
+804773341395566592,2016-12-02 19:44:51+00:00,804773341395566592,"Móvil Bx3 sale a pobl Coihueco psje 1, fuego en pastizal",5,2,1,0,,es,False,,bomberoschillan,0.182543,0.710952,0.106504,NEU
+804695387739131904,2016-12-02 14:35:05+00:00,804695387739131904,"Domingo 04 de diciembre, desfile con la entrega y bautizo de los nuevos carros de Bomberos Chillán a las 11:00 hrs https://t.co/H7Q2E4XWlw",8,11,0,0,https://twitter.com/bomberoschillan/status/804695387739131904/photo/1,es,False,,bomberoschillan,0.053937,0.567167,0.378896,NEU
+804587786699423744,2016-12-02 07:27:31+00:00,804587786699423744,"Preinforme Diagonal Las Termas con Alonso de Ercilla, choque de vehículo menor con árbol 4 involucrados 1 persona atrapada 1 paciente rojo",6,0,0,0,,es,False,,bomberoschillan,0.298456,0.618668,0.082876,NEU
+804585098293215233,2016-12-02 07:16:50+00:00,804585098293215233,"Móvil R1 sale a Diagonal Las Termas con Alonso de Ercilla, choque de vehículo menor con árbol 1 persona atrapada",3,0,0,0,,es,False,,bomberoschillan,0.308721,0.590411,0.100868,NEU
+804463209134649344,2016-12-01 23:12:29+00:00,804463209134649344,"Ampliación en avda Ruíz de Gamboa con La Castilla, colisión de motociclista con vehículo menor 1 lesionado",2,0,0,0,,es,False,,bomberoschillan,0.354098,0.537055,0.108847,NEU
+804462287012642816,2016-12-01 23:08:50+00:00,804462287012642816,"Preinforme en avda Ruíz de Gamboa con La Castilla, caída de motociclista 1 lesionado",3,0,0,0,,es,False,,bomberoschillan,0.5149,0.429047,0.056053,NEG
+804459164776939520,2016-12-01 22:56:25+00:00,804459164776939520,"Móvil R4  sale a avda Ruíz de Gamboa con La Castilla, colisión 2 vehículos menores",9,1,0,0,,es,False,,bomberoschillan,0.236549,0.678855,0.084597,NEU
+804436457343619073,2016-12-01 21:26:11+00:00,804436457343619073,"Móvil R4 sale a Antártica Chilena con Coquimbo, colisión 2 vehículos menores",5,1,0,0,,es,False,,bomberoschillan,0.249531,0.660917,0.089552,NEU
+804397141502394368,2016-12-01 18:49:58+00:00,804397141502394368,"Preinforme en avda Ruiz de Gamboa 1841 accidente eléctrico en Sala Cuna, se trabaja",3,0,0,0,,es,False,,bomberoschillan,0.196061,0.746342,0.057597,NEU
+804395980116336640,2016-12-01 18:45:21+00:00,804395980116336640,Móvil B4 y B6 salen a avda Ruiz de Gamboa 1841 emanación de humo desde jardin infantil,5,0,0,0,,es,False,,bomberoschillan,0.201528,0.710899,0.087573,NEU
+804165308017704960,2016-12-01 03:28:44+00:00,804165308017704960,"Móvil Bx3 sale a Independencia con Vega de Saldias, fuego en pastizal",5,0,0,0,,es,False,,bomberoschillan,0.151588,0.751111,0.097301,NEU
+804118543444885506,2016-12-01 00:22:55+00:00,804118543444885506,"Farmacia: CRUZ VERDE
+Turno: Miércoles 30-11-2016
+Hora Inicio: 21:00 hrs
+Hora Término: 08:59 hrs
+Comuna: CHILLAN
+Dirección: 5 DE ABRIL N° 701",2,1,0,0,,es,False,,bomberoschillan,0.134696,0.790959,0.074345,NEU
